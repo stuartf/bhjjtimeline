@@ -123,7 +123,7 @@ export default function Home() {
       fontFamily: 'Open Sans, sans-serif',
     }}>
       <span style={{padding: '1em'}}>
-        <label htmlFor="search">Search:</label>
+        <label htmlFor="search" style={{paddingRight: '.5em'}}>Search:</label>
         <input
           type="text"
           value={filter}

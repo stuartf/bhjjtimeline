@@ -15,15 +15,6 @@ module.exports = {
         path: `${__dirname}/src/data/`,
       },
     },
-    {
-      resolve: `gatsby-plugin-google-fonts`,
-      options: {
-        fonts: [
-          `open-sans`,
-        ],
-        display: 'swap',
-      },
-    },
   ],
   pathPrefix: '/bhjjtimeline',
 };
