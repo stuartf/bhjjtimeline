@@ -1,7 +1,9 @@
 import React, {useEffect, useState} from 'react';
 import {useStaticQuery, graphql} from 'gatsby';
 import Timeline from 'react-image-timeline';
-require('react-image-timeline/dist/timeline.css');
+import {PieChart} from 'react-minimal-pie-chart';
+import 'react-image-timeline/dist/timeline.css';
+import '../styles/index.css';
 
 /**
  * @return {Component}
@@ -46,8 +48,62 @@ export default function Home() {
       imageUrl: `https://dqybmc742m3hf.cloudfront.net/${node.node.photo}`,
     }
   ));
+
+  const getColor = (color) => {
+    switch (color) {
+      case 'Blue':
+        return '#87CEFA';
+      case 'Purple':
+        return '#663399';
+      case 'Brown':
+        return '#A0522D';
+      case 'Black':
+        return '#000000';
+      case 'Degree':
+        return '#8B0000';
+      case 'Grey':
+        return '#808080';
+      case 'Yellow':
+        return '#FFD700';
+      case 'Orange':
+        return '#FFA500';
+      case 'Green':
+        return '#228B22';
+    }
+  };
+
   const [events, setEvents] = useState(data);
   const [filter, setFilter] = useState('');
+  const beltCount = Object.entries(data
+      .map((datum) => datum.promotions
+          .reduce((acc, {rank}) => {
+            if (rank === 'Join') {
+              return acc;
+            }
+            if (rank !== 'Black' && rank.slice(0, 5) === 'Black') {
+              acc.Degree ? acc.Degree += 1: acc.Degree = 1;
+              return acc;
+            }
+            acc[rank] ? acc[rank] += 1: acc[rank] = 1;
+            return acc;
+          }, {},
+          ),
+      )
+      .reduce((acc, cur) => {
+        Object.entries(cur)
+            .forEach(([rank, count]) => {
+            acc[rank] ?
+              acc[rank] += count :
+              acc[rank] = count;
+            });
+        return acc;
+      }, {}))
+      .map(([title, value]) => ({
+        title,
+        value,
+        color: getColor(title),
+      }))
+      .sort((a, b) => a.value - b.value);
 
   useEffect(() => {
     filter === '' ? setEvents(data) :
@@ -61,15 +117,33 @@ export default function Home() {
   }, [filter]);
 
   return <>
-    <label htmlFor="search">Search:</label>
-    <input
-      type="text"
-      value={filter}
-      onChange={(e) => setFilter(e.target.value)}
-      id="search"
-      name="search"
-      size="10"
-    />
+    <div style={{
+      display: 'flex',
+      justifyContent: 'space-between',
+      fontFamily: 'Open Sans, sans-serif',
+    }}>
+      <span style={{padding: '1em'}}>
+        <label htmlFor="search">Search:</label>
+        <input
+          type="text"
+          value={filter}
+          onChange={(e) => setFilter(e.target.value)}
+          id="search"
+          name="search"
+          size="10"
+        />
+      </span>
+      <span style={{padding: '1em', maxWidth: '15%'}}>
+        <PieChart
+          data={beltCount}
+          label={({dataEntry}) => dataEntry.value > 5 ? dataEntry.value: null}
+          labelStyle={{fontFamily: 'Open Sans, sans-serif', fontSize: '10px'}}
+          paddingAngle={2}
+          labelPosition={75}
+          lineWidth={50}
+        />
+      </span>
+    </div>
     {events.length > 0 ?
     <Timeline
       events={events}
