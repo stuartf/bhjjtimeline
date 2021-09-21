@@ -13,5 +13,6 @@ label {
 }
 
 #beltCount {
-  max-width: 15%;
+  width: 250px;
+  max-width: 100%;
 }
