@@ -82,7 +82,7 @@ export default function Home() {
           size="10"
         />
       </span>
-      <span id='beltCount'>
+      <div id='beltCount'>
         <PieChart
           data={beltCount}
           label={({dataEntry}) => dataEntry.value > 5 ? dataEntry.value: null}
@@ -103,7 +103,7 @@ export default function Home() {
             each rank. Click a section to see everyone currently at that rank.
           </div>
         </Popover>
-      </span>
+      </div>
     </div>
     {events.length > 0 ?
     <Timeline events={events} /> :
