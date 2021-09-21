@@ -5,3 +5,21 @@
 .rt-header-container {
   font-family: Open Sans, sans-serif;
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  font-family: Open Sans, sans-serif;
+}
+
+.header span {
+  padding: 1em;
+}
+
+label {
+  padding-right: .5em;
+}
+
+#beltCount {
+  max-width: 15%;
+}
