@@ -1,0 +1,12 @@
+.container {
+  list-style: none;
+  padding: 0;
+}
+
+.container li {
+  padding: .5em;
+}
+
+.container li:nth-child(3) {
+  margin: 0;
+}

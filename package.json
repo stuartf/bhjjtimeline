@@ -19,10 +19,12 @@
     "gatsby": "^3.14.0",
     "gatsby-source-filesystem": "^3.14.0",
     "gatsby-transformer-json": "^3.14.0",
+    "prop-types": "^15.7.2",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-image-timeline": "^3.2.13",
-    "react-minimal-pie-chart": "^8.2.0"
+    "react-minimal-pie-chart": "^8.2.0",
+    "react-tiny-popover": "^7.0.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0",

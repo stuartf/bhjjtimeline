@@ -1,17 +1,16 @@
 import React, {useEffect, useState} from 'react';
 import {useStaticQuery, graphql} from 'gatsby';
-import Timeline from 'react-image-timeline';
 import {PieChart} from 'react-minimal-pie-chart';
+import {Popover} from 'react-tiny-popover';
 import util from '../util';
-import 'react-image-timeline/dist/timeline.css';
+import Roster from '../components/Roster';
+import Timeline from '../components/Timeline';
 import '../styles/index.css';
 
 /**
  * @return {Component}
  */
 export default function Home() {
-  const customFooter = (props) => <div/>;
-
   const data = useStaticQuery(graphql`
     query promotions {
       allBhjjJson {
@@ -38,7 +37,10 @@ export default function Home() {
 
   const [events, setEvents] = useState(data);
   const [filter, setFilter] = useState('');
+  const [isPopoverOpen, setIsPopoverOpen] = useState(false);
+  const [rosterPicked, setRosterPicked] = useState(null);
 
+  // Update the entries in the timeline to match the search when it changes
   useEffect(() => {
     filter === '' ? setEvents(data) :
       setEvents(data.filter((datum) =>
@@ -49,6 +51,23 @@ export default function Home() {
             .includes(filter.toLowerCase()),
       ));
   }, [filter]);
+
+  // Open the popover whenever the user changes the roster they're looking at
+  useEffect(() => {
+    setIsPopoverOpen(rosterPicked !== null);
+  }, [rosterPicked]);
+
+  const roster = util.getNamesByRank(data);
+
+  const handlePie = (e, segmentIndex) => {
+    const picked = beltCount[segmentIndex].title;
+    console.log(picked);
+    isPopoverOpen && rosterPicked === picked?
+      setRosterPicked(null):
+      setRosterPicked(picked);
+  };
+
+  const beltCount = util.countBelts(data);
 
   return <>
     <div className='header'>
@@ -65,20 +84,29 @@ export default function Home() {
       </span>
       <span id='beltCount'>
         <PieChart
-          data={util.countBelts(data)}
+          data={beltCount}
           label={({dataEntry}) => dataEntry.value > 5 ? dataEntry.value: null}
           labelStyle={{fontFamily: 'Open Sans, sans-serif', fontSize: '10px'}}
           paddingAngle={2}
           labelPosition={75}
           lineWidth={50}
+          onClick={handlePie}
         />
+        <Popover
+          isOpen={isPopoverOpen}
+          positions={['bottom', 'left']}
+          content={<Roster data={roster} rank={rosterPicked}/>}
+          onClickOutside={() => setIsPopoverOpen(false)}
+        >
+          <div>
+            The numbers above represent the total number of belts awarded at
+            each rank. Click a section to see everyone currently at that rank.
+          </div>
+        </Popover>
       </span>
     </div>
     {events.length > 0 ?
-    <Timeline
-      events={events}
-      customComponents={{footer: customFooter}}
-    /> :
+    <Timeline events={events} /> :
     <p>No matching events!</p>}
   </>;
 }

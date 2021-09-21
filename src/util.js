@@ -58,18 +58,21 @@ const formatText = (entries) =>
             ` Promoted to ${rank}`);
       }).join('; ');
 
+const normalizeRank = (rank) => {
+  if (rank.slice(0, 5) === 'Black') {
+    return 'Black';
+  }
+  return rank;
+};
+
 const countBelts = (data) => Object.entries(data
     .map((datum) => datum.promotions
         .reduce((acc, {rank}) => {
-          if (rank === 'Join') {
-            return acc;
-          }
-          if (rank !== 'Black' && rank.slice(0, 5) === 'Black') {
-              acc.Degree ? acc.Degree += 1: acc.Degree = 1;
-              return acc;
-          }
+          rank = normalizeRank(rank);
+          if (rank !== 'Join') {
             acc[rank] ? acc[rank] += 1: acc[rank] = 1;
-            return acc;
+          }
+          return acc;
         }, {},
         ),
     )
@@ -89,9 +92,37 @@ const countBelts = (data) => Object.entries(data
     }))
     .sort((a, b) => getRankOrder(a.title) - getRankOrder(b.title));
 
+const getNamesByRank = (data) =>
+  Object.entries(data
+      // Get an array of all promotions ignoring dates
+      .map((datum) => datum.promotions)
+      .flat()
+      // Transform it to an Object with names as keys and
+      // Array of ranks achieved as values
+      .reduce((acc, cur) => {
+        const rank = normalizeRank(cur.rank);
+        if (rank !== 'Join') {
+          acc[cur.name] ? acc[cur.name].push(rank): acc[cur.name] = [rank];
+        }
+        return acc;
+      }, {}))
+      // Reduce the ranks achieved to just the highest value
+      .map(([name, ranks]) => [
+        name,
+        ranks.reduce((acc, rank) =>
+          getRankOrder(acc) > getRankOrder(rank) ? acc: rank),
+      ])
+      // Transform to an Object where key is highest rank achieved
+      // and value is Array of names
+      .reduce((acc, [name, rank]) => {
+        acc[rank] ? acc[rank].push(name): acc[rank] = [name];
+        return acc;
+      }, {});
+
 export default {
   getColor,
   getRankOrder,
   formatText,
   countBelts,
+  getNamesByRank,
 };
