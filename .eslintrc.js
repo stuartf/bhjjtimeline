@@ -6,6 +6,7 @@ module.exports = {
   'extends': [
     'plugin:react/recommended',
     'google',
+    'plugin:json/recommended',
   ],
   'parserOptions': {
     'ecmaFeatures': {
