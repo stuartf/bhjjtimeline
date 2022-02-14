@@ -165,6 +165,7 @@
 {"date": "2019-10-26T00:00:00.000", "promotions": [{"name": "Geoff Dalton", "rank": "Join"}], "photo": "20191026-geoffjoin.jpg"},
 {"date": "2019-11-04T00:00:00.000", "promotions": [{"name": "Bryan Jordan", "rank": "Join"}], "photo": "20191104-bryanjoin.jpg"},
 {"date": "2019-12-05T00:00:00.000", "promotions": [{"name": "Joey Ciacco", "rank": "Purple"}], "photo": "20191205-joeypurple.jpg"},
+{"date": "2019-12-09T00:00:00.000", "promotions": [{"name": "Matthew Kirby", "rank": "Join"}], "photo": "20191209-matthewjoin.jpg"},
 {"date": "2019-12-14T00:00:00.000", "promotions": [{"name": "Michael Wigal", "rank": "Blue"}, {"name": "Adam Chechila", "rank": "Blue"}], "photo": "20191214-michaeladamblue.jpg"},
 {"date": "2019-12-16T00:00:00.000", "promotions": [{"name": "Justin Johnson", "rank": "Blue"}], "photo": "20191216-justinblue.jpg"},
 {"date": "2020-02-03T00:00:00.000", "promotions": [{"name": "Miguel Perez", "rank": "Purple" }, {"name": "Joe Vo", "rank": "Purple"}, {"name": "Daniella Tyson", "rank": "Blue"}], "photo": "20200203-miguel-joe-daniella.jpg"},
@@ -208,5 +209,6 @@
 {"date": "2021-09-25T00:00:00.000", "promotions": [{"name": "Daren Roberts", "rank": "Black Belt First Degree"}, {"name": "Kenneth Yeung", "rank": "Black Belt First Degree"}], "photo": "20210925-darenkennethfirst.jpg"},
 {"date": "2021-12-04T00:00:00.000", "promotions": [{"name": "Clayton Vaught", "rank": "Purple"}, {"name": "Jason Oliver", "rank": "Purple"}], "photo": "20211204-claytonjasonpurple.jpg"},
 {"date": "2021-12-07T00:00:00.000", "promotions": [{"name": "Brian Taylor", "rank": "Blue"}], "photo": "20211207-brianblue.jpg"},
-{"date": "2022-01-10T00:00:00.000", "promotions": [{"name": "Greg Zabinski", "rank": "Brown"}], "photo": "20220110-gregbrown.jpg"}
+{"date": "2022-01-10T00:00:00.000", "promotions": [{"name": "Greg Zabinski", "rank": "Brown"}], "photo": "20220110-gregbrown.jpg"},
+{"date": "2022-02-14T00:00:00.000", "promotions": [{"name": "Matthew Kirby", "rank": "Blue"}], "photo": "20220214-matthewblue.jpg"}
 ]
