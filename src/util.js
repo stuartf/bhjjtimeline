@@ -1,3 +1,5 @@
+import {main} from 'magica';
+
 const getColor = (color) => {
   switch (color) {
     case 'Blue':
@@ -48,15 +50,20 @@ const formatText = (entries) =>
   Object.entries(
       entries.reduce((acc, cur) => {
         acc[cur.rank] = acc[cur.rank] ?
-          acc[cur.rank].concat(cur.name) :
-          acc[cur.rank] = [cur.name];
+        acc[cur.rank].concat(cur.name) :
+        (acc[cur.rank] = [cur.name]);
         return acc;
-      }, {}))
+      }, {}),
+  )
       .map(([rank, names]) => {
-        return names.join(' and ') + (rank === 'Join' ?
-            ` Join${names.length > 1 ? '' : 's'}` :
-            ` Promoted to ${rank}`);
-      }).join('; ');
+        return (
+          names.join(' and ') +
+        (rank === 'Join' ?
+          ` Join${names.length > 1 ? '' : 's'}` :
+          ` Promoted to ${rank}`)
+        );
+      })
+      .join('; ');
 
 const normalizeRank = (rank) => {
   if (rank.slice(0, 5) === 'Black') {
@@ -65,59 +72,81 @@ const normalizeRank = (rank) => {
   return rank;
 };
 
-const countBelts = (data) => Object.entries(data
-    .map((datum) => datum.promotions
-        .reduce((acc, {rank}) => {
-          rank = normalizeRank(rank);
-          if (rank !== 'Join') {
-            acc[rank] ? acc[rank] += 1: acc[rank] = 1;
-          }
-          return acc;
-        }, {},
-        ),
-    )
-    .reduce((acc, cur) => {
-      Object.entries(cur)
-          .forEach(([rank, count]) => {
-            acc[rank] ?
-              acc[rank] += count :
-              acc[rank] = count;
-          });
-      return acc;
-    }, {}))
-    .map(([title, value]) => ({
-      title,
-      value,
-      color: getColor(title),
-    }))
-    .sort((a, b) => getRankOrder(a.title) - getRankOrder(b.title));
+const countBelts = (data) =>
+  Object.entries(
+      data
+          .map((datum) =>
+            datum.promotions.reduce((acc, {rank}) => {
+              rank = normalizeRank(rank);
+              if (rank !== 'Join') {
+            acc[rank] ? (acc[rank] += 1) : (acc[rank] = 1);
+              }
+              return acc;
+            }, {}),
+          )
+          .reduce((acc, cur) => {
+            Object.entries(cur).forEach(([rank, count]) => {
+          acc[rank] ? (acc[rank] += count) : (acc[rank] = count);
+            });
+            return acc;
+          }, {}),
+  )
+      .map(([title, value]) => ({
+        title,
+        value,
+        color: getColor(title),
+      }))
+      .sort((a, b) => getRankOrder(a.title) - getRankOrder(b.title));
 
 const getNamesByRank = (data) =>
-  Object.entries(data
+  Object.entries(
+      data
       // Get an array of all promotions ignoring dates
-      .map((datum) => datum.promotions)
-      .flat()
+          .map((datum) => datum.promotions)
+          .flat()
       // Transform it to an Object with names as keys and
       // Array of ranks achieved as values
-      .reduce((acc, cur) => {
-        const rank = normalizeRank(cur.rank);
-        if (rank !== 'Join') {
-          acc[cur.name] ? acc[cur.name].push(rank): acc[cur.name] = [rank];
-        }
-        return acc;
-      }, {}))
-      // Reduce the ranks achieved to just the highest value
+          .reduce((acc, cur) => {
+            const rank = normalizeRank(cur.rank);
+            if (rank !== 'Join') {
+          acc[cur.name] ? acc[cur.name].push(rank) : (acc[cur.name] = [rank]);
+            }
+            return acc;
+          }, {}),
+  )
+  // Reduce the ranks achieved to just the highest value
       .map(([name, ranks]) => [
         name,
         ranks.reduce((acc, rank) =>
-          getRankOrder(acc) > getRankOrder(rank) ? acc: rank),
+        getRankOrder(acc) > getRankOrder(rank) ? acc : rank,
+        ),
       ])
-      // Transform to an Object where key is highest rank achieved
-      // and value is Array of names
+  // Transform to an Object where key is highest rank achieved
+  // and value is Array of names
       .reduce((acc, [name, rank]) => {
-        acc[rank] ? acc[rank].push(name): acc[rank] = [name];
-        return acc;
+      acc[rank] ? acc[rank].push(name) : (acc[rank] = [name]);
+      return acc;
       }, {});
+
+const getLineageImg = async (path) => {
+  const elements = path.split('/');
+  const file = elements[elements.length - 1];
+  const result = await main({
+    debug: true,
+    command:
+    'convert lineage-template.jpg ' +
+    `\\( ${file} -gravity center -crop 640:578 -scale 640x578 \\) `+
+    '-gravity northwest -composite out.jpg',
+    inputFiles: [
+      'https://dqybmc742m3hf.cloudfront.net/lineage-template.jpg',
+      path,
+    ],
+  });
+  console.log(result);
+  return `data:image/png;base64,${btoa(
+      String.fromCharCode(...result.outputFiles[0].content),
+  )}`;
+};
 
 export default {
   getColor,
@@ -125,4 +154,5 @@ export default {
   formatText,
   countBelts,
   getNamesByRank,
+  getLineageImg,
 };
