@@ -7,10 +7,15 @@ import Roster from '../components/Roster';
 import Timeline from '../components/Timeline';
 import '../styles/index.css';
 
+// The lineage component doesn't work with ssr
+const Lineage = React.lazy(() => import('../components/Lineage'));
+
 /**
  * @return {Component}
  */
 export default function Home() {
+  const isSSR = typeof window === 'undefined';
+
   const data = useStaticQuery(graphql`
     query promotions {
       allBhjjJson {
@@ -39,6 +44,8 @@ export default function Home() {
   const [filter, setFilter] = useState('');
   const [isPopoverOpen, setIsPopoverOpen] = useState(false);
   const [rosterPicked, setRosterPicked] = useState(null);
+  const [isImgOpen, setIsImgOpen] = useState(false);
+  const [imgPicked, setImgPicked] = useState(null);
 
   // Update the entries in the timeline to match the search when it changes
   useEffect(() => {
@@ -52,6 +59,12 @@ export default function Home() {
       ));
   }, [filter]);
 
+  useEffect(() => setRosterPicked(null), [isImgOpen]);
+
+  useEffect(() => {
+    setIsImgOpen(imgPicked !== null);
+  }, [imgPicked]);
+
   // Open the popover whenever the user changes the roster they're looking at
   useEffect(() => {
     setIsPopoverOpen(rosterPicked !== null);
@@ -61,7 +74,6 @@ export default function Home() {
 
   const handlePie = (e, segmentIndex) => {
     const picked = beltCount[segmentIndex].title;
-    console.log(picked);
     isPopoverOpen && rosterPicked === picked?
       setRosterPicked(null):
       setRosterPicked(picked);
@@ -95,7 +107,11 @@ export default function Home() {
         <Popover
           isOpen={isPopoverOpen}
           positions={['bottom', 'left']}
-          content={<Roster data={roster} rank={rosterPicked}/>}
+          content={<Roster
+            data={roster}
+            rank={rosterPicked}
+            setImgPicked={setImgPicked}
+          />}
           onClickOutside={() => setIsPopoverOpen(false)}
         >
           <div>
@@ -103,6 +119,22 @@ export default function Home() {
             each rank. Click a section to see everyone currently at that rank.
           </div>
         </Popover>
+        {!isSSR && (
+          <React.Suspense fallback={<span />}>
+            <Popover
+              isOpen={isImgOpen}
+              positions={['top', 'left']}
+              content={<Lineage path={imgPicked} />}
+              onClickOutside={() => setIsImgOpen(false)}
+              contentLocation={() => ({
+                top: window.innerHeight/2 - 480 + window.scrollY,
+                left: window.innerWidth/2 - 480,
+              })}
+            >
+              <span />
+            </Popover>
+          </React.Suspense>
+        )}
       </div>
     </div>
     {events.length > 0 ?

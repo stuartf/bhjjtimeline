@@ -5,3 +5,7 @@
 .rt-header-container {
   font-family: Open Sans, sans-serif;
 }
+
+.rt-svg-container {
+  z-index: 0;
+}

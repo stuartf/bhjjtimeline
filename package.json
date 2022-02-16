@@ -17,14 +17,16 @@
   "dependencies": {
     "@fontsource/open-sans": "^4.5.2",
     "gatsby": "^4.3.0",
-    "gatsby-source-filesystem": "^4.3.0",
+    "gatsby-source-filesystem": "^4.7.0",
     "gatsby-transformer-json": "^4.3.0",
+    "magica": "^0.2.17",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-image-timeline": "^3.2.13",
     "react-minimal-pie-chart": "^8.2.0",
-    "react-tiny-popover": "^7.0.1"
+    "react-tiny-popover": "^7.0.1",
+    "spinners-react": "^1.0.6"
   },
   "devDependencies": {
     "eslint": "^8.4.1",
