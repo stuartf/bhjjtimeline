@@ -1,5 +1,3 @@
-import {main} from 'magica';
-
 const getColor = (color) => {
   switch (color) {
     case 'Blue':
@@ -102,14 +100,18 @@ const getNamesByRank = (data) =>
   Object.entries(
       data
       // Get an array of all promotions ignoring dates
-          .map((datum) => datum.promotions)
+          .map((datum) => datum.promotions.map((promotion) => (
+            {...promotion, imageUrl: datum.imageUrl}
+          )))
           .flat()
       // Transform it to an Object with names as keys and
       // Array of ranks achieved as values
           .reduce((acc, cur) => {
             const rank = normalizeRank(cur.rank);
             if (rank !== 'Join') {
-          acc[cur.name] ? acc[cur.name].push(rank) : (acc[cur.name] = [rank]);
+              acc[cur.name] ?
+                acc[cur.name].push({rank, imageUrl: cur.imageUrl}) :
+                (acc[cur.name] = [{rank, imageUrl: cur.imageUrl}]);
             }
             return acc;
           }, {}),
@@ -118,35 +120,17 @@ const getNamesByRank = (data) =>
       .map(([name, ranks]) => [
         name,
         ranks.reduce((acc, rank) =>
-        getRankOrder(acc) > getRankOrder(rank) ? acc : rank,
+        getRankOrder(acc.rank) > getRankOrder(rank.rank) ? acc : rank,
         ),
       ])
   // Transform to an Object where key is highest rank achieved
   // and value is Array of names
       .reduce((acc, [name, rank]) => {
-      acc[rank] ? acc[rank].push(name) : (acc[rank] = [name]);
-      return acc;
+        acc[rank.rank] ?
+          acc[rank.rank].push({name, imageUrl: rank.imageUrl}) :
+          (acc[rank.rank] = [{name, imageUrl: rank.imageUrl}]);
+        return acc;
       }, {});
-
-const getLineageImg = async (path) => {
-  const elements = path.split('/');
-  const file = elements[elements.length - 1];
-  const result = await main({
-    debug: true,
-    command:
-    'convert lineage-template.jpg ' +
-    `\\( ${file} -gravity center -crop 640:578 -scale 640x578 \\) `+
-    '-gravity northwest -composite out.jpg',
-    inputFiles: [
-      'https://dqybmc742m3hf.cloudfront.net/lineage-template.jpg',
-      path,
-    ],
-  });
-  console.log(result);
-  return `data:image/png;base64,${btoa(
-      String.fromCharCode(...result.outputFiles[0].content),
-  )}`;
-};
 
 export default {
   getColor,
@@ -154,5 +138,4 @@ export default {
   formatText,
   countBelts,
   getNamesByRank,
-  getLineageImg,
 };

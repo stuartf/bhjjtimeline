@@ -21,7 +21,7 @@ const Timeline = (props) => {
   </>;
 };
 Timeline.propTypes = {
-  events: PropTypes.object,
+  events: PropTypes.array,
 };
 
 export default Timeline;
