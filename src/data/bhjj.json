@@ -185,8 +185,10 @@
 {"date": "2020-11-14T00:00:00.000", "promotions": [{"name": "Sergey Davidenko", "rank": "Blue"}], "photo": "20201114-sergeyblue.jpg"},
 {"date": "2020-11-23T00:00:00.000", "promotions": [{"name": "Hunter Jens", "rank": "Blue"}], "photo": "20201123-hunterblue.jpg"},
 {"date": "2020-11-24T00:00:00.000", "promotions": [{"name": "Tylor Marshall", "rank": "Blue"}, {"name": "Michael Ladson", "rank": "Blue"}], "photo": "20201124-tylormichaelblue.jpg"},
+{"date": "2020-12-02T00:00:00.000", "promotions": [{"name": "Vincent Lee", "rank": "Join"}], "photo": "20201202-vincentjoin.jpg"},
 {"date": "2020-12-04T00:00:00.000", "promotions": [{"name": "Thomas Pietruszewski", "rank": "Blue"}], "photo": "20201204-thomasblue.jpg"},
 {"date": "2020-12-10T00:00:00.000", "promotions": [{"name": "Steven Mann", "rank": "Purple"}], "photo": "20201210-stevenpurple.jpg"},
+{"date": "2021-01-23T00:00:00.000", "promotions": [{"name": "John Simon", "rank": "Join"}], "photo": "20210123-johnjoin.jpg"},
 {"date": "2021-02-12T00:00:00.000", "promotions": [{"name": "Jonah Fried", "rank": "Blue"}], "photo": "20210212-jonahblue.jpg"},
 {"date": "2021-02-16T00:00:00.000", "promotions": [{"name": "Jonathan Muiznieks", "rank": "Blue"}], "photo": "20210216-jonathanblue.jpg"},
 {"date": "2021-02-27T00:00:00.000", "promotions": [{"name": "Matt De Leon", "rank": "Brown"}, {"name": "Stuart Freeman", "rank": "Brown" }, {"name": "Kennith Jackson", "rank": "Brown"}], "photo": "20210227-mattstuartkennithbrown.jpg"},
@@ -214,6 +216,6 @@
 {"date": "2022-02-15T00:00:00.000", "promotions": [{"name": "Max Ellerhorst", "rank": "Blue"}], "photo": "20220215-maxblue.jpg"},
 {"date": "2022-03-01T00:00:00.000", "promotions": [{"name": "Neisa Yin", "rank": "Blue"}], "photo": "20220301-neisablue.jpg"},
 {"date": "2022-03-19T00:00:00.000", "promotions": [{"name": "Erik Lystad", "rank": "Purple"}], "photo": "20220319-erikpurple.jpg"},
-{"date": "2022-04-25T00:00:00.000", "promotions": [{"name": "Adam Chechila", "rank": "Purple"}], "photo": "20220425-adampurple.jpg"}
-
+{"date": "2022-04-25T00:00:00.000", "promotions": [{"name": "Adam Chechila", "rank": "Purple"}], "photo": "20220425-adampurple.jpg"},
+{"date": "2022-05-09T00:00:00.000", "promotions": [{"name": "John Simon", "rank": "Blue"}, {"name": "Vincent Lee", "rank": "Blue"}], "photo": "20220509-johnvincentblue.jpg"}
 ]
