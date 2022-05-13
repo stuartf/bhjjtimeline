@@ -217,5 +217,6 @@
 {"date": "2022-03-01T00:00:00.000", "promotions": [{"name": "Neisa Yin", "rank": "Blue"}], "photo": "20220301-neisablue.jpg"},
 {"date": "2022-03-19T00:00:00.000", "promotions": [{"name": "Erik Lystad", "rank": "Purple"}], "photo": "20220319-erikpurple.jpg"},
 {"date": "2022-04-25T00:00:00.000", "promotions": [{"name": "Adam Chechila", "rank": "Purple"}], "photo": "20220425-adampurple.jpg"},
-{"date": "2022-05-09T00:00:00.000", "promotions": [{"name": "John Simon", "rank": "Blue"}, {"name": "Vincent Lee", "rank": "Blue"}], "photo": "20220509-johnvincentblue.jpg"}
+{"date": "2022-05-09T00:00:00.000", "promotions": [{"name": "John Simon", "rank": "Blue"}, {"name": "Vincent Lee", "rank": "Blue"}], "photo": "20220509-johnvincentblue.jpg"},
+{"date": "2022-05-12T00:00:00.000", "promotions": [{"name": "Mighten Yip", "rank": "Purple"}], "photo": "20220512-mightenpurple.jpg"}
 ]
