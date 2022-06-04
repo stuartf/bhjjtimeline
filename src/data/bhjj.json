@@ -100,6 +100,7 @@
 {"date": "2018-03-03T00:00:00.000", "promotions": [{"name": "Janie Vaught", "rank": "Join"}], "photo": "20180303-janiejoin.jpg"},
 {"date": "2018-03-07T00:00:00.000", "promotions": [{"name": "Erik Perez", "rank": "Join"}], "photo": "20180307-erikjoin.jpg"},
 {"date": "2018-03-24T00:00:00.000", "promotions": [{"name": "Stuart Freeman", "rank": "Purple"}, {"name": "Ruth Hwu", "rank": "Purple"}], "photo": "20180324-stuartruthpurple.jpg"},
+{"date": "2018-04-19T00:00:00.000", "promotions": [{"name": "Max Leamy", "rank": "Join"}], "photo": "20180419-maxjoin.jpg"},
 {"date": "2018-05-16T00:00:00.000", "promotions": [{"name": "Chris Jones", "rank": "Join"}], "photo": "20180516-chrisjoin.jpg"},
 {"date": "2018-06-07T00:00:00.000", "promotions": [{"name": "Eduardo Galvao", "rank": "Purple"}], "photo": "20180607-eduardopurple.jpg"},
 {"date": "2018-06-14T00:00:00.000", "promotions": [{"name": "Marc Gebeily", "rank": "Purple"}], "photo": "20180614-marcpurple.jpg"},
@@ -218,5 +219,6 @@
 {"date": "2022-03-19T00:00:00.000", "promotions": [{"name": "Erik Lystad", "rank": "Purple"}], "photo": "20220319-erikpurple.jpg"},
 {"date": "2022-04-25T00:00:00.000", "promotions": [{"name": "Adam Chechila", "rank": "Purple"}], "photo": "20220425-adampurple.jpg"},
 {"date": "2022-05-09T00:00:00.000", "promotions": [{"name": "John Simon", "rank": "Blue"}, {"name": "Vincent Lee", "rank": "Blue"}], "photo": "20220509-johnvincentblue.jpg"},
-{"date": "2022-05-12T00:00:00.000", "promotions": [{"name": "Mighten Yip", "rank": "Purple"}], "photo": "20220512-mightenpurple.jpg"}
+{"date": "2022-05-12T00:00:00.000", "promotions": [{"name": "Mighten Yip", "rank": "Purple"}], "photo": "20220512-mightenpurple.jpg"},
+{"date": "2022-06-04T00:00:00.000", "promotions": [{"name": "Max Leamy", "rank": "Blue"}], "photo": "20220604-maxblue.jpg"}
 ]
