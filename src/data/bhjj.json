@@ -144,6 +144,7 @@
 {"date": "2019-04-27T00:00:00.000", "promotions": [{"name": "Derek Kaivani", "rank": "Black Belt Second Degree"}], "photo": "20190427-derek2nd.jpg"},
 {"date": "2019-04-27T00:00:00.000", "promotions": [{"name": "Clayton Vaught", "rank": "Blue"}], "photo": "20190427-claytonblue.jpg"},
 {"date": "2019-04-29T00:00:00.000", "promotions": [{"name": "Grant Jones", "rank": "Blue"}], "photo": "20190429-grantblue.jpg"},
+{"date": "2019-05-06T00:00:00.000", "promotions": [{"name": "Bob Dekle", "rank": "Join"}], "photo": "20190506-bobjoin.jpg"},
 {"date": "2019-06-03T00:00:00.000", "promotions": [{"name": "Daniel Cottmeyer", "rank": "Join"}], "photo": "20190603-danieljoin.jpg"},
 {"date": "2019-06-17T00:00:00.000", "promotions": [{"name": "Tylor Marshall", "rank": "Join"}], "photo": "20190617-tylorjoin.jpg"},
 {"date": "2019-07-08T00:00:00.000", "promotions": [{"name": "Ethan Arbiser", "rank": "Join"}], "photo": "20190708-ethanjoin.jpg"},
@@ -205,6 +206,7 @@
 {"date": "2021-06-29T00:00:00.000", "promotions": [{"name": "Eduardo Galvao", "rank": "Brown"}], "photo": "20210629-eduardobrown.jpg"},
 {"date": "2021-06-30T00:00:00.000", "promotions": [{"name": "Ernesto Espinoza", "rank": "Purple"}], "photo": "20210630-ernestopurple.jpg"},
 {"date": "2021-07-07T00:00:00.000", "promotions": [{"name": "Julia Muller", "rank": "Blue"}], "photo": "20210707-juliablue.jpg"},
+{"date": "2021-07-10T00:00:00.000", "promotions": [{"name": "Zach Mahl", "rank": "Join"}], "photo": "20210710-zachjoin.jpg"},
 {"date": "2021-07-19T00:00:00.000", "promotions": [{"name": "Matthew Scafidi", "rank": "Purple"}, {"name": "Allison Jacobs", "rank": "Purple"}], "photo": "20210719-mattallisonpurple.jpg"},
 {"date": "2021-08-03T00:00:00.000", "promotions": [{"name": "Matthew Rubenstein", "rank": "Brown"}], "photo": "20210803-mattbrown.jpg"},
 {"date": "2021-08-24T00:00:00.000", "promotions": [{"name": "Neisa Yin", "rank": "Join"}], "photo": "20210824-neisajoin.jpg"},
@@ -222,5 +224,6 @@
 {"date": "2022-05-09T00:00:00.000", "promotions": [{"name": "John Simon", "rank": "Blue"}, {"name": "Vincent Lee", "rank": "Blue"}], "photo": "20220509-johnvincentblue.jpg"},
 {"date": "2022-05-12T00:00:00.000", "promotions": [{"name": "Mighten Yip", "rank": "Purple"}], "photo": "20220512-mightenpurple.jpg"},
 {"date": "2022-06-04T00:00:00.000", "promotions": [{"name": "Max Leamy", "rank": "Blue"}], "photo": "20220604-maxblue.jpg"},
-{"date": "2022-06-25T00:00:00.000", "promotions": [{"name": "Darion Carter", "rank": "Blue"}], "photo": "20220625-darionblue.jpg"}
+{"date": "2022-06-25T00:00:00.000", "promotions": [{"name": "Darion Carter", "rank": "Blue"}], "photo": "20220625-darionblue.jpg"},
+{"date": "2022-07-14T00:00:00.000", "promotions": [{"name": "Bob Dekle", "rank": "Blue"}, {"name": "Zach Mahl", "rank": "Blue"}], "photo": "20220714-bobzachblue.jpg"}
 ]
