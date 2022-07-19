@@ -208,6 +208,7 @@
 {"date": "2021-07-07T00:00:00.000", "promotions": [{"name": "Julia Muller", "rank": "Blue"}], "photo": "20210707-juliablue.jpg"},
 {"date": "2021-07-10T00:00:00.000", "promotions": [{"name": "Zach Mahl", "rank": "Join"}], "photo": "20210710-zachjoin.jpg"},
 {"date": "2021-07-19T00:00:00.000", "promotions": [{"name": "Matthew Scafidi", "rank": "Purple"}, {"name": "Allison Jacobs", "rank": "Purple"}], "photo": "20210719-mattallisonpurple.jpg"},
+{"date": "2021-07-31T00:00:00.000", "promotions": [{"name": "Robert Walker", "rank": "Join"}], "photo": "20210731-robertjoin.jpg"},
 {"date": "2021-08-03T00:00:00.000", "promotions": [{"name": "Matthew Rubenstein", "rank": "Brown"}], "photo": "20210803-mattbrown.jpg"},
 {"date": "2021-08-24T00:00:00.000", "promotions": [{"name": "Neisa Yin", "rank": "Join"}], "photo": "20210824-neisajoin.jpg"},
 {"date": "2021-09-10T00:00:00.000", "promotions": [{"name": "Geoff Dalton", "rank": "Blue"}, {"name": "Rachael Pejinsky", "rank": "Blue"}], "photo": "20210910-geoffrachaelblue.jpg"},
@@ -225,5 +226,6 @@
 {"date": "2022-05-12T00:00:00.000", "promotions": [{"name": "Mighten Yip", "rank": "Purple"}], "photo": "20220512-mightenpurple.jpg"},
 {"date": "2022-06-04T00:00:00.000", "promotions": [{"name": "Max Leamy", "rank": "Blue"}], "photo": "20220604-maxblue.jpg"},
 {"date": "2022-06-25T00:00:00.000", "promotions": [{"name": "Darion Carter", "rank": "Blue"}], "photo": "20220625-darionblue.jpg"},
-{"date": "2022-07-14T00:00:00.000", "promotions": [{"name": "Bob Dekle", "rank": "Blue"}, {"name": "Zach Mahl", "rank": "Blue"}], "photo": "20220714-bobzachblue.jpg"}
+{"date": "2022-07-14T00:00:00.000", "promotions": [{"name": "Bob Dekle", "rank": "Blue"}, {"name": "Zach Mahl", "rank": "Blue"}], "photo": "20220714-bobzachblue.jpg"},
+{"date": "2022-07-19T00:00:00.000", "promotions": [{"name": "Robert Walker", "rank": "Blue"}], "photo": "20220719-robertblue.jpg"}
 ]
