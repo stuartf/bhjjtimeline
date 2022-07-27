@@ -228,5 +228,6 @@
 {"date": "2022-06-04T00:00:00.000", "promotions": [{"name": "Max Leamy", "rank": "Blue"}], "photo": "20220604-maxblue.jpg"},
 {"date": "2022-06-25T00:00:00.000", "promotions": [{"name": "Darion Carter", "rank": "Blue"}], "photo": "20220625-darionblue.jpg"},
 {"date": "2022-07-14T00:00:00.000", "promotions": [{"name": "Bob Dekle", "rank": "Blue"}, {"name": "Zach Mahl", "rank": "Blue"}], "photo": "20220714-bobzachblue.jpg"},
-{"date": "2022-07-19T00:00:00.000", "promotions": [{"name": "Robert Walker", "rank": "Blue"}], "photo": "20220719-robertblue.jpg"}
+{"date": "2022-07-19T00:00:00.000", "promotions": [{"name": "Robert Walker", "rank": "Blue"}], "photo": "20220719-robertblue.jpg"},
+{"date": "2022-07-26T00:00:00.000", "promotions": [{"name": "Roman Merzon", "rank": "Blue"}], "photo": "20220726-romanblue.jpg"}
 ]
