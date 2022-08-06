@@ -49,6 +49,7 @@
 {"date": "2016-05-03T00:00:00.000", "promotions": [{"name": "Tom Wortman", "rank": "Join"}], "photo": "20160503-tomwortmanjoin.jpg"},
 {"date": "2016-05-17T00:00:00.000", "promotions": [{"name": "Kennith Jackson", "rank": "Blue"}], "photo": "20160517-kennithblue.jpg"},
 {"date": "2016-05-19T00:00:00.000", "promotions": [{"name": "Eduardo Galvao", "rank": "Join"}], "photo": "20160519-eduardojoin.jpg"},
+{"date": "2016-06-16T00:00:00.000", "promotions": [{"name": "Brock Clement", "rank": "Join"}], "photo": "20160616-brockjoin.jpg"},
 {"date": "2016-07-05T00:00:00.000", "promotions": [{"name": "Hannah Narcross", "rank": "Join"}], "photo": "20160705-hannahjoin.jpg"},
 {"date": "2016-07-07T00:00:00.000", "promotions": [{"name": "Cederic Pimentel", "rank": "Join"}], "photo": "20160707-cedericjoin.jpg"},
 {"date": "2016-07-18T00:00:00.000", "promotions": [{"name": "Jonathan Cheng", "rank": "Blue"}], "photo": "20160718-jonathanchengblue.jpg"},
@@ -229,5 +230,6 @@
 {"date": "2022-06-25T00:00:00.000", "promotions": [{"name": "Darion Carter", "rank": "Blue"}], "photo": "20220625-darionblue.jpg"},
 {"date": "2022-07-14T00:00:00.000", "promotions": [{"name": "Bob Dekle", "rank": "Blue"}, {"name": "Zach Mahl", "rank": "Blue"}], "photo": "20220714-bobzachblue.jpg"},
 {"date": "2022-07-19T00:00:00.000", "promotions": [{"name": "Robert Walker", "rank": "Blue"}], "photo": "20220719-robertblue.jpg"},
-{"date": "2022-07-26T00:00:00.000", "promotions": [{"name": "Roman Merzon", "rank": "Blue"}], "photo": "20220726-romanblue.jpg"}
+{"date": "2022-07-26T00:00:00.000", "promotions": [{"name": "Roman Merzon", "rank": "Blue"}], "photo": "20220726-romanblue.jpg"},
+{"date": "2022-07-26T00:00:00.000", "promotions": [{"name": "Brock Clement", "rank": "Blue"}], "photo": "20220805-brockblue.jpg"}
 ]
