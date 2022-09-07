@@ -203,6 +203,7 @@
 {"date": "2021-04-02T00:00:00.000", "promotions": [{"name": "Hunter Vaught", "rank": "Purple"}], "photo": "20210402-hunterpurple.jpg"},
 {"date": "2021-04-11T00:00:00.000", "promotions": [{"name": "Bryan Jordan", "rank": "Blue"}], "photo": "20210413-bryanblue.jpg"},
 {"date": "2021-05-08T00:00:00.000", "promotions": [{"name": "Lucas Baur", "rank": "Blue"}], "photo": "20210508-lucasblue.jpg"},
+{"date": "2021-06-19T00:00:00.000", "promotions": [{"name": "Jose Bejerano", "rank": "Join"}], "photo": "20210619-josejoin.jpg"},
 {"date": "2021-06-28T00:00:00.000", "promotions": [{"name": "Chris Jones", "rank": "Purple"}], "photo": "20210628-chrispurple.jpg"},
 {"date": "2021-06-29T00:00:00.000", "promotions": [{"name": "Grant Jones", "rank": "Purple"}], "photo": "20210629-grantpurple.jpg"},
 {"date": "2021-06-29T00:00:00.000", "promotions": [{"name": "Eduardo Galvao", "rank": "Brown"}], "photo": "20210629-eduardobrown.jpg"},
@@ -234,5 +235,6 @@
 {"date": "2022-08-05T00:00:00.000", "promotions": [{"name": "Brock Clement", "rank": "Blue"}], "photo": "20220805-brockblue.jpg"},
 {"date": "2022-08-10T00:00:00.000", "promotions": [{"name": "Joe Vo", "rank": "Brown"}], "photo": "20220810-joebrown.jpg"},
 {"date": "2022-08-18T00:00:00.000", "promotions": [{"name": "Cole Delude", "rank": "Blue"}], "photo": "20220818-coleblue.jpg"},
-{"date": "2022-09-05T00:00:00.000", "promotions": [{"name": "Matt Shand", "rank": "Brown"}], "photo": "20220905-mattbrown.jpg"}
+{"date": "2022-09-05T00:00:00.000", "promotions": [{"name": "Matt Shand", "rank": "Brown"}], "photo": "20220905-mattbrown.jpg"},
+{"date": "2022-09-06T00:00:00.000", "promotions": [{"name": "Michael Adesso", "rank": "Purple"}, {"name": "Jose Bejerano", "rank": "Blue"}], "photo": "20220906-michaeljose.jpg"}
 ]
