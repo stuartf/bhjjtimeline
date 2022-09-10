@@ -241,5 +241,5 @@
 {"date": "2022-09-05T00:00:00.000", "promotions": [{"name": "Matt Shand", "rank": "Brown"}], "photo": "20220905-mattbrown.jpg"},
 {"date": "2022-09-06T00:00:00.000", "promotions": [{"name": "Michael Adesso", "rank": "Purple"}, {"name": "Jose Bejerano", "rank": "Blue"}], "photo": "20220906-michaeljose.jpg"},
 {"date": "2022-09-07T00:00:00.000", "promotions": [{"name": "Daniel Washburn", "rank": "Blue"}, {"name": "Kyle Kritz", "rank": "Blue"}], "photo": "20220907-danielkyleblue.jpg"},
-{"date": "2022-09-07T00:00:00.000", "promotions": [{"name": "Brandon Wharton", "rank": "Purple"}, {"name": "Michael Gibson", "rank": "Blue"}], "photo": "20220909-brandonmichael.jpg"}
+{"date": "2022-09-09T00:00:00.000", "promotions": [{"name": "Brandon Wharton", "rank": "Purple"}, {"name": "Michael Gibson", "rank": "Blue"}], "photo": "20220909-brandonmichael.jpg"}
 ]
