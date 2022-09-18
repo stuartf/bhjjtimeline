@@ -156,6 +156,7 @@
 {"date": "2019-07-27T00:00:00.000", "promotions": [{"name": "Erik Lystad", "rank": "Blue"}, {"name": "Scott Markley", "rank": "Blue"}], "photo": "20190727-erikscottblue.jpg"},
 {"date": "2019-07-29T00:00:00.000", "promotions": [{"name": "Ben Kolenda", "rank": "Blue"}], "photo": "20190729-benblue.jpg"},
 {"date": "2019-08-06T00:00:00.000", "promotions": [{"name": "Janie Vaught", "rank": "Blue"}], "photo": "20190806-janieblue.jpg"},
+{"date": "2019-08-06T00:00:00.000", "promotions": [{"name": "Kirk Luca", "rank": "Join"}], "photo": "20190806-kirkjoin.jpg"},
 {"date": "2019-08-15T00:00:00.000", "promotions": [{"name": "Patrick Herald", "rank": "Purple"}], "photo": "20190815-patpurple.jpg"},
 {"date": "2019-08-21T00:00:00.000", "promotions": [{"name": "Lucas Baur", "rank": "Join"}], "photo": "20190821-lucasjoin.jpg"},
 {"date": "2019-08-22T00:00:00.000", "promotions": [{"name": "Kevin Kao", "rank": "Purple"}], "photo": "20190822-kevinpurple.jpg"},
@@ -242,5 +243,7 @@
 {"date": "2022-09-06T00:00:00.000", "promotions": [{"name": "Michael Adesso", "rank": "Purple"}, {"name": "Jose Bejerano", "rank": "Blue"}], "photo": "20220906-michaeljose.jpg"},
 {"date": "2022-09-07T00:00:00.000", "promotions": [{"name": "Daniel Washburn", "rank": "Blue"}, {"name": "Kyle Kritz", "rank": "Blue"}], "photo": "20220907-danielkyleblue.jpg"},
 {"date": "2022-09-09T00:00:00.000", "promotions": [{"name": "Brandon Wharton", "rank": "Purple"}, {"name": "Michael Gibson", "rank": "Blue"}], "photo": "20220909-brandonmichael.jpg"},
-{"date": "2022-09-10T00:00:00.000", "promotions": [{"name": "Sam Ross", "rank": "Brown"}], "photo": "20220910-sambrown.jpg"}
+{"date": "2022-09-10T00:00:00.000", "promotions": [{"name": "Sam Ross", "rank": "Brown"}], "photo": "20220910-sambrown.jpg"},
+{"date": "2022-09-16T00:00:00.000", "promotions": [{"name": "Kirk Luca", "rank": "Purple"}], "photo": "20220916-kirkpurple.jpg"},
+{"date": "2022-09-17T00:00:00.000", "promotions": [{"name": "Marc Gebeily", "rank": "Brown"}], "photo": "20220917-marcbrown.jpg"}
 ]
