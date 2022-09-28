@@ -245,5 +245,6 @@
 {"date": "2022-09-09T00:00:00.000", "promotions": [{"name": "Brandon Wharton", "rank": "Purple"}, {"name": "Michael Gibson", "rank": "Blue"}], "photo": "20220909-brandonmichael.jpg"},
 {"date": "2022-09-10T00:00:00.000", "promotions": [{"name": "Sam Ross", "rank": "Brown"}], "photo": "20220910-sambrown.jpg"},
 {"date": "2022-09-16T00:00:00.000", "promotions": [{"name": "Kirk Luca", "rank": "Purple"}], "photo": "20220916-kirkpurple.jpg"},
-{"date": "2022-09-17T00:00:00.000", "promotions": [{"name": "Marc Gebeily", "rank": "Brown"}], "photo": "20220917-marcbrown.jpg"}
+{"date": "2022-09-17T00:00:00.000", "promotions": [{"name": "Marc Gebeily", "rank": "Brown"}], "photo": "20220917-marcbrown.jpg"},
+{"date": "2022-09-27T00:00:00.000", "promotions": [{"name": "Michael Leamy", "rank": "Brown"}], "photo": "20220927-michaelbrown.jpg"}
 ]
