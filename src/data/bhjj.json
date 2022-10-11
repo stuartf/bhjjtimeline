@@ -167,6 +167,7 @@
 {"date": "2019-09-28T00:00:00.000", "promotions": [{"name": "Brandon Harris", "rank": "Join"}], "photo": "20190928-brandonjoin.jpg"},
 {"date": "2019-10-10T00:00:00.000", "promotions": [{"name": "Tony Law", "rank": "Blue"}], "photo": "20191010-tonyblue.jpg"},
 {"date": "2019-10-26T00:00:00.000", "promotions": [{"name": "Geoff Dalton", "rank": "Join"}], "photo": "20191026-geoffjoin.jpg"},
+{"date": "2019-11-02T00:00:00.000", "promotions": [{"name": "Erik O'Brien", "rank": "Join"}], "photo": "20191102-erikjoin.jpg"},
 {"date": "2019-11-04T00:00:00.000", "promotions": [{"name": "Bryan Jordan", "rank": "Join"}], "photo": "20191104-bryanjoin.jpg"},
 {"date": "2019-12-05T00:00:00.000", "promotions": [{"name": "Joey Ciacco", "rank": "Purple"}], "photo": "20191205-joeypurple.jpg"},
 {"date": "2019-12-09T00:00:00.000", "promotions": [{"name": "Matthew Kirby", "rank": "Join"}, {"name": "Max Ellerhorst", "rank": "Join"}], "photo": "20191209-matthewjoin.jpg"},
@@ -205,7 +206,7 @@
 {"date": "2021-04-02T00:00:00.000", "promotions": [{"name": "Hunter Vaught", "rank": "Purple"}], "photo": "20210402-hunterpurple.jpg"},
 {"date": "2021-04-11T00:00:00.000", "promotions": [{"name": "Bryan Jordan", "rank": "Blue"}], "photo": "20210413-bryanblue.jpg"},
 {"date": "2021-05-08T00:00:00.000", "promotions": [{"name": "Lucas Baur", "rank": "Blue"}], "photo": "20210508-lucasblue.jpg"},
-{"date": "2021-05-22T00:00:00.000", "promotions": [{"name": "Cole Delude", "rank": "Join"}, {"name": "Greg Volcy", "rank": "Join"}], "photo": "20210522-colegregjoin.jpg"},
+{"date": "2021-05-22T00:00:00.000", "promotions": [{"name": "Cole Delude", "rank": "Join"}, {"name": "Greg Volcy", "rank": "Join"}, {"name": "Cusuh Ham", "rank": "Join"}], "photo": "20210522-colegregjoin.jpg"},
 {"date": "2021-06-19T00:00:00.000", "promotions": [{"name": "Jose Bejerano", "rank": "Join"}], "photo": "20210619-josejoin.jpg"},
 {"date": "2021-06-28T00:00:00.000", "promotions": [{"name": "Chris Jones", "rank": "Purple"}], "photo": "20210628-chrispurple.jpg"},
 {"date": "2021-06-29T00:00:00.000", "promotions": [{"name": "Grant Jones", "rank": "Purple"}], "photo": "20210629-grantpurple.jpg"},
@@ -248,5 +249,6 @@
 {"date": "2022-09-16T00:00:00.000", "promotions": [{"name": "Kirk Luca", "rank": "Purple"}], "photo": "20220916-kirkpurple.jpg"},
 {"date": "2022-09-17T00:00:00.000", "promotions": [{"name": "Marc Gebeily", "rank": "Brown"}], "photo": "20220917-marcbrown.jpg"},
 {"date": "2022-09-27T00:00:00.000", "promotions": [{"name": "Michael Leamy", "rank": "Brown"}], "photo": "20220927-michaelbrown.jpg"},
-{"date": "2022-10-08T00:00:00.000", "promotions": [{"name": "Greg Volcy", "rank": "Blue"}], "photo": "20221008-gregblue.jpg"}
+{"date": "2022-10-08T00:00:00.000", "promotions": [{"name": "Greg Volcy", "rank": "Blue"}], "photo": "20221008-gregblue.jpg"},
+{"date": "2022-10-10T00:00:00.000", "promotions": [{"name": "Erik O'Brien", "rank": "Blue"}, {"name": "Cusuh Ham", "rank": "Blue"}], "photo": "20221010-erikcusuhblue.jpg"}
 ]
