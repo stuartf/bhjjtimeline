@@ -150,6 +150,7 @@
 {"date": "2019-06-03T00:00:00.000", "promotions": [{"name": "Daniel Cottmeyer", "rank": "Join"}], "photo": "20190603-danieljoin.jpg"},
 {"date": "2019-06-17T00:00:00.000", "promotions": [{"name": "Tylor Marshall", "rank": "Join"}], "photo": "20190617-tylorjoin.jpg"},
 {"date": "2019-07-08T00:00:00.000", "promotions": [{"name": "Ethan Arbiser", "rank": "Join"}], "photo": "20190708-ethanjoin.jpg"},
+{"date": "2019-07-12T00:00:00.000", "promotions": [{"name": "Miller Lowry", "rank": "Join"}], "photo": "20190712-millerjoin.jpg"},
 {"date": "2019-07-15T00:00:00.000", "promotions": [{"name": "Brian Taylor", "rank": "Join"}], "photo": "20190715-brianjoin.jpg"},
 {"date": "2019-07-20T00:00:00.000", "promotions": [{"name": "Chris Jones", "rank": "Blue"}, {"name": "Ernesto Espinoza", "rank": "Blue"}], "photo": "20190721-chrisernestoblue.jpg"},
 {"date": "2019-07-24T00:00:00.000", "promotions": [{"name": "Michael Do", "rank": "Blue"}], "photo": "20190724-michaelblue.jpg"},
@@ -250,5 +251,6 @@
 {"date": "2022-09-17T00:00:00.000", "promotions": [{"name": "Marc Gebeily", "rank": "Brown"}], "photo": "20220917-marcbrown.jpg"},
 {"date": "2022-09-27T00:00:00.000", "promotions": [{"name": "Michael Leamy", "rank": "Brown"}], "photo": "20220927-michaelbrown.jpg"},
 {"date": "2022-10-08T00:00:00.000", "promotions": [{"name": "Greg Volcy", "rank": "Blue"}], "photo": "20221008-gregblue.jpg"},
-{"date": "2022-10-10T00:00:00.000", "promotions": [{"name": "Erik O'Brien", "rank": "Blue"}, {"name": "Cusuh Ham", "rank": "Blue"}], "photo": "20221010-erikcusuhblue.jpg"}
+{"date": "2022-10-10T00:00:00.000", "promotions": [{"name": "Erik O'Brien", "rank": "Blue"}, {"name": "Cusuh Ham", "rank": "Blue"}], "photo": "20221010-erikcusuhblue.jpg"},
+{"date": "2022-10-14T00:00:00.000", "promotions": [{"name": "Miller Lowry", "rank": "Blue"}], "photo": "20221014-millerblue.jpg"}
 ]
