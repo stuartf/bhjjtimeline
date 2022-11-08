@@ -206,6 +206,7 @@
 {"date": "2021-03-23T00:00:00.000", "promotions": [{"name": "Joe Lombardo", "rank": "Blue"}], "photo": "20210323-joeblue.jpg"},
 {"date": "2021-04-02T00:00:00.000", "promotions": [{"name": "Hunter Vaught", "rank": "Purple"}], "photo": "20210402-hunterpurple.jpg"},
 {"date": "2021-04-11T00:00:00.000", "promotions": [{"name": "Bryan Jordan", "rank": "Blue"}], "photo": "20210413-bryanblue.jpg"},
+{"date": "2021-04-19T00:00:00.000", "promotions": [{"name": "Andrew Reeves", "rank": "Join"}], "photo": "20210419-andrewjoin.jpg"},
 {"date": "2021-05-08T00:00:00.000", "promotions": [{"name": "Lucas Baur", "rank": "Blue"}], "photo": "20210508-lucasblue.jpg"},
 {"date": "2021-05-22T00:00:00.000", "promotions": [{"name": "Cole Delude", "rank": "Join"}, {"name": "Greg Volcy", "rank": "Join"}, {"name": "Cusuh Ham", "rank": "Join"}], "photo": "20210522-colegregjoin.jpg"},
 {"date": "2021-06-19T00:00:00.000", "promotions": [{"name": "Jose Bejerano", "rank": "Join"}], "photo": "20210619-josejoin.jpg"},
@@ -252,5 +253,6 @@
 {"date": "2022-09-27T00:00:00.000", "promotions": [{"name": "Michael Leamy", "rank": "Brown"}], "photo": "20220927-michaelbrown.jpg"},
 {"date": "2022-10-08T00:00:00.000", "promotions": [{"name": "Greg Volcy", "rank": "Blue"}], "photo": "20221008-gregblue.jpg"},
 {"date": "2022-10-10T00:00:00.000", "promotions": [{"name": "Erik O'Brien", "rank": "Blue"}, {"name": "Cusuh Ham", "rank": "Blue"}], "photo": "20221010-erikcusuhblue.jpg"},
-{"date": "2022-10-14T00:00:00.000", "promotions": [{"name": "Miller Lowry", "rank": "Blue"}], "photo": "20221014-millerblue.jpg"}
+{"date": "2022-10-14T00:00:00.000", "promotions": [{"name": "Miller Lowry", "rank": "Blue"}], "photo": "20221014-millerblue.jpg"},
+{"date": "2022-11-05T00:00:00.000", "promotions": [{"name": "Andrew Reeves", "rank": "Blue"}], "photo": "20221105-andrewblue.jpg"}
 ]
