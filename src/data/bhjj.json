@@ -134,7 +134,7 @@
 {"date": "2019-01-08T00:00:00.000", "promotions": [{"name": "Jonathan Muiznieks", "rank": "Join"}], "photo": "20190108-jonathanjoin.jpg"},
 {"date": "2019-01-10T00:00:00.000", "promotions": [{"name": "Dru Jf", "rank": "Blue"}], "photo": "20190110-drublue.jpg"},
 {"date": "2019-01-15T00:00:00.000", "promotions": [{"name": "Michael Leamy", "rank": "Purple"}, {"name": "Ethan Hunt", "rank": "Blue"}, {"name": "Logan Hunt", "rank": "Blue"}], "photo": "20190116-michaelpurpleethanloganblue.jpg"},
-{"date": "2019-01-19T00:00:00.000", "promotions": [{"name": "Zach Davis", "rank": "Join"}], "photo": "20190119-zachjoin.jpg"},
+{"date": "2019-01-19T00:00:00.000", "promotions": [{"name": "Zack Davis", "rank": "Join"}], "photo": "20190119-zachjoin.jpg"},
 {"date": "2019-02-18T00:00:00.000", "promotions": [{"name": "Michael Adesso", "rank": "Join"}], "photo": "20190218-michaeljoin.jpg"},
 {"date": "2019-02-26T00:00:00.000", "promotions": [{"name": "Mighten Yip", "rank": "Blue"}, {"name": "Colby Lewallen", "rank": "Blue"}], "photo": "20190227-mightencolbyblue.jpg"},
 {"date": "2019-03-05T00:00:00.000", "promotions": [{"name": "Jack Klein", "rank": "Join"}], "photo": "20190305-jackjoin.jpg"},
@@ -179,7 +179,7 @@
 {"date": "2020-02-05T00:00:00.000", "promotions": [{"name": "Jan Gonzales", "rank": "Purple"}], "photo": "20200205-janpurple.jpg"},
 {"date": "2020-02-15T00:00:00.000", "promotions": [{"name": "Kyle Kritz", "rank": "Join"}], "photo": "20200215-kylejoin.jpg"},
 {"date": "2020-03-10T00:00:00.000", "promotions": [{"name": "Ryan McElroy", "rank": "Blue"}], "photo": "20200310-ryanblue.jpg"},
-{"date": "2020-03-11T00:00:00.000", "promotions": [{"name": "Zach Davis", "rank": "Blue"}, {"name": "Shane Miller", "rank": "Blue"}, {"name": "Michael Adesso", "rank": "Blue"}], "photo": "20200311-zachshanemichaelblue.jpg"},
+{"date": "2020-03-11T00:00:00.000", "promotions": [{"name": "Zack Davis", "rank": "Blue"}, {"name": "Shane Miller", "rank": "Blue"}, {"name": "Michael Adesso", "rank": "Blue"}], "photo": "20200311-zachshanemichaelblue.jpg"},
 {"date": "2020-06-01T00:00:00.000", "promotions": [{"name": "Rachael Pejinsky", "rank": "Join"}], "photo": "20200601-rachaeljoin.jpg"},
 {"date": "2020-06-10T00:00:00.000", "promotions": [{"name": "Thomas Pietruszewski", "rank": "Join"}], "photo": "20200610-thomasjoin.jpg"},
 {"date": "2020-06-13T00:00:00.000", "promotions": [{"name": "Winthorpe Burke", "rank": "Brown"}, {"name": "Ruth Hwu", "rank": "Brown"}, {"name": "Taylor Reed", "rank": "Brown"}], "photo": "20200613-winthorpruthtaylorbrown.jpg"},
@@ -254,5 +254,6 @@
 {"date": "2022-10-08T00:00:00.000", "promotions": [{"name": "Greg Volcy", "rank": "Blue"}], "photo": "20221008-gregblue.jpg"},
 {"date": "2022-10-10T00:00:00.000", "promotions": [{"name": "Erik O'Brien", "rank": "Blue"}, {"name": "Cusuh Ham", "rank": "Blue"}], "photo": "20221010-erikcusuhblue.jpg"},
 {"date": "2022-10-14T00:00:00.000", "promotions": [{"name": "Miller Lowry", "rank": "Blue"}], "photo": "20221014-millerblue.jpg"},
-{"date": "2022-11-05T00:00:00.000", "promotions": [{"name": "Andrew Reeves", "rank": "Blue"}], "photo": "20221105-andrewblue.jpg"}
+{"date": "2022-11-05T00:00:00.000", "promotions": [{"name": "Andrew Reeves", "rank": "Blue"}], "photo": "20221105-andrewblue.jpg"},
+{"date": "2022-11-11T00:00:00.000", "promotions": [{"name": "Zack Davis", "rank": "Purple"}], "photo": "20221111-zackpurple.jpg"}
 ]
