@@ -258,5 +258,6 @@
 {"date": "2022-11-11T00:00:00.000", "promotions": [{"name": "Zack Davis", "rank": "Purple"}], "photo": "20221111-zackpurple.jpg"},
 {"date": "2023-01-05T00:00:00.000", "promotions": [{"name": "Monize Siqueira", "rank": "Blue"}], "photo": "20230105-monizeblue.jpg"},
 {"date": "2023-01-14T00:00:00.000", "promotions": [{"name": "Taylor Reed", "rank": "Black"}], "photo": "20230114-taylorblack.jpg"},
-{"date": "2023-01-14T00:00:00.000", "promotions": [{"name": "Derek Kaivani", "rank": "Black Belt Third Degree"}], "photo": "20230114-derekthird.jpg"}
+{"date": "2023-01-14T00:00:00.000", "promotions": [{"name": "Derek Kaivani", "rank": "Black Belt Third Degree"}], "photo": "20230114-derekthird.jpg"},
+{"date": "2023-01-21T00:00:00.000", "promotions": [{"name": "Whit Lanier", "rank": "Black"}], "photo": "20230121-whitblack.jpg"}
 ]
