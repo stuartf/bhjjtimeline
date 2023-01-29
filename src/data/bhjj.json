@@ -216,6 +216,7 @@
 {"date": "2021-06-30T00:00:00.000", "promotions": [{"name": "Ernesto Espinoza", "rank": "Purple"}], "photo": "20210630-ernestopurple.jpg"},
 {"date": "2021-07-07T00:00:00.000", "promotions": [{"name": "Julia Muller", "rank": "Blue"}], "photo": "20210707-juliablue.jpg"},
 {"date": "2021-07-10T00:00:00.000", "promotions": [{"name": "Zach Mahl", "rank": "Join"}], "photo": "20210710-zachjoin.jpg"},
+{"date": "2021-07-10T00:00:00.000", "promotions": [{"name": "Kion Fallah", "rank": "Join"}], "photo": "20210710-kionjoin.jpg"},
 {"date": "2021-07-19T00:00:00.000", "promotions": [{"name": "Matthew Scafidi", "rank": "Purple"}, {"name": "Allison Jacobs", "rank": "Purple"}], "photo": "20210719-mattallisonpurple.jpg"},
 {"date": "2021-07-31T00:00:00.000", "promotions": [{"name": "Robert Walker", "rank": "Join"}], "photo": "20210731-robertjoin.jpg"},
 {"date": "2021-08-03T00:00:00.000", "promotions": [{"name": "Matthew Rubenstein", "rank": "Brown"}], "photo": "20210803-mattbrown.jpg"},
@@ -259,5 +260,6 @@
 {"date": "2023-01-05T00:00:00.000", "promotions": [{"name": "Monize Siqueira", "rank": "Blue"}], "photo": "20230105-monizeblue.jpg"},
 {"date": "2023-01-14T00:00:00.000", "promotions": [{"name": "Taylor Reed", "rank": "Black"}], "photo": "20230114-taylorblack.jpg"},
 {"date": "2023-01-14T00:00:00.000", "promotions": [{"name": "Derek Kaivani", "rank": "Black Belt Third Degree"}], "photo": "20230114-derekthird.jpg"},
-{"date": "2023-01-21T00:00:00.000", "promotions": [{"name": "Whit Lanier", "rank": "Black"}], "photo": "20230121-whitblack.jpg"}
+{"date": "2023-01-21T00:00:00.000", "promotions": [{"name": "Whit Lanier", "rank": "Black"}], "photo": "20230121-whitblack.jpg"},
+{"date": "2023-01-21T00:00:00.000", "promotions": [{"name": "Kion Fallah", "rank": "Blue"}], "photo": "20230128-kionblue.jpg"}
 ]
