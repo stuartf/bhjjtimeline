@@ -230,6 +230,7 @@
 {"date": "2022-01-10T00:00:00.000", "promotions": [{"name": "Greg Zabinski", "rank": "Brown"}], "photo": "20220110-gregbrown.jpg"},
 {"date": "2022-02-14T00:00:00.000", "promotions": [{"name": "Matthew Kirby", "rank": "Blue"}], "photo": "20220214-matthewblue.jpg"},
 {"date": "2022-02-15T00:00:00.000", "promotions": [{"name": "Max Ellerhorst", "rank": "Blue"}], "photo": "20220215-maxblue.jpg"},
+{"date": "2022-02-21T00:00:00.000", "promotions": [{"name": "Clifton Dunford", "rank": "Join"}], "photo": "20220221-cliftonjoin.jpg"},
 {"date": "2022-03-01T00:00:00.000", "promotions": [{"name": "Neisa Yin", "rank": "Blue"}], "photo": "20220301-neisablue.jpg"},
 {"date": "2022-03-19T00:00:00.000", "promotions": [{"name": "Erik Lystad", "rank": "Purple"}], "photo": "20220319-erikpurple.jpg"},
 {"date": "2022-04-04T00:00:00.000", "promotions": [{"name": "Daniel Washburn", "rank": "Join"}], "photo": "20220404-danieljoin.jpg"},
@@ -261,5 +262,6 @@
 {"date": "2023-01-14T00:00:00.000", "promotions": [{"name": "Taylor Reed", "rank": "Black"}], "photo": "20230114-taylorblack.jpg"},
 {"date": "2023-01-14T00:00:00.000", "promotions": [{"name": "Derek Kaivani", "rank": "Black Belt Third Degree"}], "photo": "20230114-derekthird.jpg"},
 {"date": "2023-01-21T00:00:00.000", "promotions": [{"name": "Whit Lanier", "rank": "Black"}], "photo": "20230121-whitblack.jpg"},
-{"date": "2023-01-28T00:00:00.000", "promotions": [{"name": "Kion Fallah", "rank": "Blue"}], "photo": "20230128-kionblue.jpg"}
+{"date": "2023-01-28T00:00:00.000", "promotions": [{"name": "Kion Fallah", "rank": "Blue"}], "photo": "20230128-kionblue.jpg"},
+{"date": "2023-02-14T00:00:00.000", "promotions": [{"name": "Clifton Dunford", "rank": "Blue"}], "photo": "20230214-cliftonblue.jpg"}
 ]
