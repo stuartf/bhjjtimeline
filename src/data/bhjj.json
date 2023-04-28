@@ -218,7 +218,7 @@
 {"date": "2021-07-10T00:00:00.000", "promotions": [{"name": "Zach Mahl", "rank": "Join"}], "photo": "20210710-zachjoin.jpg"},
 {"date": "2021-07-10T00:00:00.000", "promotions": [{"name": "Kion Fallah", "rank": "Join"}], "photo": "20210710-kionjoin.jpg"},
 {"date": "2021-07-19T00:00:00.000", "promotions": [{"name": "Matthew Scafidi", "rank": "Purple"}, {"name": "Allison Jacobs", "rank": "Purple"}], "photo": "20210719-mattallisonpurple.jpg"},
-{"date": "2021-07-31T00:00:00.000", "promotions": [{"name": "Robert Walker", "rank": "Join"}], "photo": "20210731-robertjoin.jpg"},
+{"date": "2021-07-31T00:00:00.000", "promotions": [{"name": "Robert Walker", "rank": "Join"}, {"name": "Jan Lystad", "rank": "Join"}], "photo": "20210731-robertjoin.jpg"},
 {"date": "2021-08-03T00:00:00.000", "promotions": [{"name": "Matthew Rubenstein", "rank": "Brown"}], "photo": "20210803-mattbrown.jpg"},
 {"date": "2021-08-24T00:00:00.000", "promotions": [{"name": "Neisa Yin", "rank": "Join"}], "photo": "20210824-neisajoin.jpg"},
 {"date": "2021-09-10T00:00:00.000", "promotions": [{"name": "Geoff Dalton", "rank": "Blue"}, {"name": "Rachael Pejinsky", "rank": "Blue"}], "photo": "20210910-geoffrachaelblue.jpg"},
@@ -263,5 +263,6 @@
 {"date": "2023-01-14T00:00:00.000", "promotions": [{"name": "Derek Kaivani", "rank": "Black Belt Third Degree"}], "photo": "20230114-derekthird.jpg"},
 {"date": "2023-01-21T00:00:00.000", "promotions": [{"name": "Whit Lanier", "rank": "Black"}], "photo": "20230121-whitblack.jpg"},
 {"date": "2023-01-28T00:00:00.000", "promotions": [{"name": "Kion Fallah", "rank": "Blue"}], "photo": "20230128-kionblue.jpg"},
-{"date": "2023-02-14T00:00:00.000", "promotions": [{"name": "Clifton Dunford", "rank": "Blue"}], "photo": "20230214-cliftonblue.jpg"}
+{"date": "2023-02-14T00:00:00.000", "promotions": [{"name": "Clifton Dunford", "rank": "Blue"}], "photo": "20230214-cliftonblue.jpg"},
+{"date": "2023-04-27T00:00:00.000", "promotions": [{"name": "Jan Lystad", "rank": "Blue"}], "photo": "20230427-janblue.jpg"}
 ]
