@@ -1,10 +1,11 @@
 import React, {useState} from 'react';
-import RITimeline from 'react-image-timeline';
-import 'react-image-timeline/dist/timeline.css';
+import RITimeline from 'react-img-timeline';
+import 'react-img-timeline/dist/timeline.css';
 import '../styles/timeline.css';
 import PropTypes from 'prop-types';
 
 const customFooter = (props) => <div/>;
+
 
 const Timeline = (props) => {
   const [reverse, setReverse] = useState(false);

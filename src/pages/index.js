@@ -5,6 +5,7 @@ import {Popover} from 'react-tiny-popover';
 import util from '../util';
 import Roster from '../components/Roster';
 import Timeline from '../components/Timeline';
+import {SEO} from '../components/seo';
 import '../styles/index.css';
 
 // The lineage component doesn't work with ssr
@@ -142,3 +143,5 @@ export default function Home() {
     <p>No matching events!</p>}
   </>;
 }
+
+export const Head = () => <SEO />;

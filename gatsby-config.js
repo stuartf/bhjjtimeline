@@ -17,4 +17,9 @@ module.exports = {
     },
   ],
   pathPrefix: '/bhjjtimeline',
+  siteMetadata: {
+    title: "Buckhead Jiu Jitsu Timeline",
+    description: "A history of belts awarded at Buckhead Jiu Jistu",
+    siteUrl: "https://stuartf.github.io/bhjjtimeline",
+  }
 };
