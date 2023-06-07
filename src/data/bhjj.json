@@ -268,5 +268,6 @@
 {"date": "2023-04-27T00:00:00.000", "promotions": [{"name": "Jan Lystad", "rank": "Blue"}], "photo": "20230427-janblue.jpg"},
 {"date": "2023-05-02T00:00:00.000", "promotions": [{"name": "Will Buchly", "rank": "Blue"}], "photo": "20230502-willblue.jpg"},
 {"date": "2023-05-04T00:00:00.000", "promotions": [{"name": "Thomas Pietruszewski", "rank": "Purple"}], "photo": "20230504-thomaspurple.jpg"},
-{"date": "2023-05-17T00:00:00.000", "promotions": [{"name": "Thomas Flowers", "rank": "Blue"}], "photo": "20230517-thomasblue.jpg"}
+{"date": "2023-05-17T00:00:00.000", "promotions": [{"name": "Thomas Flowers", "rank": "Blue"}], "photo": "20230517-thomasblue.jpg"},
+{"date": "2023-06-05T00:00:00.000", "promotions": [{"name": "Michael Wigal", "rank": "Purple"}, {"name": "Justin Johnson", "rank": "Purple"}], "photo": "20230605-michaeljjpurple.jpg"}
 ]
