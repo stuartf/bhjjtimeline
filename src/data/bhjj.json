@@ -169,6 +169,7 @@
 {"date": "2019-10-10T00:00:00.000", "promotions": [{"name": "Tony Law", "rank": "Blue"}], "photo": "20191010-tonyblue.jpg"},
 {"date": "2019-10-26T00:00:00.000", "promotions": [{"name": "Geoff Dalton", "rank": "Join"}], "photo": "20191026-geoffjoin.jpg"},
 {"date": "2019-11-02T00:00:00.000", "promotions": [{"name": "Erik O'Brien", "rank": "Join"}], "photo": "20191102-erikjoin.jpg"},
+{"date": "2019-11-25T00:00:00.000", "promotions": [{"name": "Erik Anderson", "rank": "Join"}], "photo": "20191125-erikjoin.jpg"},
 {"date": "2019-11-04T00:00:00.000", "promotions": [{"name": "Bryan Jordan", "rank": "Join"}], "photo": "20191104-bryanjoin.jpg"},
 {"date": "2019-12-05T00:00:00.000", "promotions": [{"name": "Joey Ciacco", "rank": "Purple"}], "photo": "20191205-joeypurple.jpg"},
 {"date": "2019-12-09T00:00:00.000", "promotions": [{"name": "Matthew Kirby", "rank": "Join"}, {"name": "Max Ellerhorst", "rank": "Join"}], "photo": "20191209-matthewjoin.jpg"},
@@ -204,6 +205,7 @@
 {"date": "2021-02-27T00:00:00.000", "promotions": [{"name": "Matt De Leon", "rank": "Brown"}, {"name": "Stuart Freeman", "rank": "Brown" }, {"name": "Kennith Jackson", "rank": "Brown"}], "photo": "20210227-mattstuartkennithbrown.jpg"},
 {"date": "2021-03-02T00:00:00.000", "promotions": [{"name": "Daniel Cottmeyer", "rank": "Blue"}, {"name": "Brandon Harris", "rank": "Blue"}], "photo": "20210302-danielbrandonblue.jpg"},
 {"date": "2021-03-03T00:00:00.000", "promotions": [{"name": "Randy Wright", "rank": "Blue"}, {"name": "Ethan Arbiser", "rank": "Blue"}], "photo": "20210303-randyethanblue.jpg"},
+{"date": "2021-03-06T00:00:00.000", "promotions": [{"name": "Bjorn Walker", "rank": "Join"}], "photo": "20210306-bjornjoin.jpg"},
 {"date": "2021-03-23T00:00:00.000", "promotions": [{"name": "Joe Lombardo", "rank": "Blue"}], "photo": "20210323-joeblue.jpg"},
 {"date": "2021-04-02T00:00:00.000", "promotions": [{"name": "Hunter Vaught", "rank": "Purple"}], "photo": "20210402-hunterpurple.jpg"},
 {"date": "2021-04-11T00:00:00.000", "promotions": [{"name": "Bryan Jordan", "rank": "Blue"}], "photo": "20210413-bryanblue.jpg"},
@@ -271,5 +273,6 @@
 {"date": "2023-05-04T00:00:00.000", "promotions": [{"name": "Thomas Pietruszewski", "rank": "Purple"}], "photo": "20230504-thomaspurple.jpg"},
 {"date": "2023-05-17T00:00:00.000", "promotions": [{"name": "Thomas Flowers", "rank": "Blue"}], "photo": "20230517-thomasblue.jpg"},
 {"date": "2023-06-05T00:00:00.000", "promotions": [{"name": "Michael Wigal", "rank": "Purple"}, {"name": "Justin Johnson", "rank": "Purple"}], "photo": "20230605-michaeljjpurple.jpg"},
-{"date": "2023-06-27T00:00:00.000", "promotions": [{"name": "Trent Watkins", "rank": "Blue"}], "photo": "20230627-trentblue.jpg"}
+{"date": "2023-06-27T00:00:00.000", "promotions": [{"name": "Trent Watkins", "rank": "Blue"}], "photo": "20230627-trentblue.jpg"},
+{"date": "2023-08-21T00:00:00.000", "promotions": [{"name": "Erik Anderson", "rank": "Blue"}, {"name": "Bjorn Walker", "rank": "Blue"}], "photo": "20230821-erikbjornblue.jpg"}
 ]
