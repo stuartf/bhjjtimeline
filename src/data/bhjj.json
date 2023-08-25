@@ -274,5 +274,6 @@
 {"date": "2023-05-17T00:00:00.000", "promotions": [{"name": "Thomas Flowers", "rank": "Blue"}], "photo": "20230517-thomasblue.jpg"},
 {"date": "2023-06-05T00:00:00.000", "promotions": [{"name": "Michael Wigal", "rank": "Purple"}, {"name": "Justin Johnson", "rank": "Purple"}], "photo": "20230605-michaeljjpurple.jpg"},
 {"date": "2023-06-27T00:00:00.000", "promotions": [{"name": "Trent Watkins", "rank": "Blue"}], "photo": "20230627-trentblue.jpg"},
-{"date": "2023-08-21T00:00:00.000", "promotions": [{"name": "Erik Anderson", "rank": "Blue"}, {"name": "Bjorn Walker", "rank": "Blue"}], "photo": "20230821-erikbjornblue.jpg"}
+{"date": "2023-08-21T00:00:00.000", "promotions": [{"name": "Erik Anderson", "rank": "Blue"}, {"name": "Bjorn Walker", "rank": "Blue"}], "photo": "20230821-erikbjornblue.jpg"},
+{"date": "2023-08-23T00:00:00.000", "promotions": [{"name": "Joe Driscoll", "rank": "Blue"}], "photo": "20230823-joeblue.jpg"}
 ]
