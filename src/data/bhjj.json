@@ -249,6 +249,7 @@
 {"date": "2022-07-26T00:00:00.000", "promotions": [{"name": "Roman Merzon", "rank": "Blue"}], "photo": "20220726-romanblue.jpg"},
 {"date": "2022-08-05T00:00:00.000", "promotions": [{"name": "Brock Clement", "rank": "Blue"}], "photo": "20220805-brockblue.jpg"},
 {"date": "2022-08-10T00:00:00.000", "promotions": [{"name": "Joe Vo", "rank": "Brown"}], "photo": "20220810-joebrown.jpg"},
+{"date": "2022-08-13T00:00:00.000", "promotions": [{"name": "Will Mart", "rank": "Blue"}], "photo": "20220813-willjoin.jpg"},
 {"date": "2022-08-18T00:00:00.000", "promotions": [{"name": "Cole Delude", "rank": "Blue"}], "photo": "20220818-coleblue.jpg"},
 {"date": "2022-09-05T00:00:00.000", "promotions": [{"name": "Matt Shand", "rank": "Brown"}], "photo": "20220905-mattbrown.jpg"},
 {"date": "2022-09-06T00:00:00.000", "promotions": [{"name": "Michael Adesso", "rank": "Purple"}, {"name": "Jose Bejerano", "rank": "Blue"}], "photo": "20220906-michaeljose.jpg"},
@@ -277,5 +278,6 @@
 {"date": "2023-06-27T00:00:00.000", "promotions": [{"name": "Trent Watkins", "rank": "Blue"}], "photo": "20230627-trentblue.jpg"},
 {"date": "2023-08-21T00:00:00.000", "promotions": [{"name": "Erik Anderson", "rank": "Blue"}, {"name": "Bjorn Walker", "rank": "Blue"}], "photo": "20230821-erikbjornblue.jpg"},
 {"date": "2023-08-23T00:00:00.000", "promotions": [{"name": "Joe Driscoll", "rank": "Blue"}], "photo": "20230823-joeblue.jpg"},
-{"date": "2023-08-25T00:00:00.000", "promotions": [{"name": "Harold Soper", "rank": "Blue"}], "photo": "20230825-haroldblue.jpg"}
+{"date": "2023-08-25T00:00:00.000", "promotions": [{"name": "Harold Soper", "rank": "Blue"}], "photo": "20230825-haroldblue.jpg"},
+{"date": "2023-08-26T00:00:00.000", "promotions": [{"name": "Will Mart", "rank": "Blue"}], "photo": "20230826-willblue.jpg"}
 ]
