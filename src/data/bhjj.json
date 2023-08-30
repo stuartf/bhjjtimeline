@@ -279,5 +279,7 @@
 {"date": "2023-08-21T00:00:00.000", "promotions": [{"name": "Erik Anderson", "rank": "Blue"}, {"name": "Bjorn Walker", "rank": "Blue"}], "photo": "20230821-erikbjornblue.jpg"},
 {"date": "2023-08-23T00:00:00.000", "promotions": [{"name": "Joe Driscoll", "rank": "Blue"}], "photo": "20230823-joeblue.jpg"},
 {"date": "2023-08-25T00:00:00.000", "promotions": [{"name": "Harold Soper", "rank": "Blue"}], "photo": "20230825-haroldblue.jpg"},
-{"date": "2023-08-26T00:00:00.000", "promotions": [{"name": "Will Mart", "rank": "Blue"}], "photo": "20230826-willblue.jpg"}
+{"date": "2023-08-26T00:00:00.000", "promotions": [{"name": "Will Mart", "rank": "Blue"}], "photo": "20230826-willblue.jpg"},
+{"date": "2023-08-29T00:00:00.000", "promotions": [{"name": "Hunter Jens", "rank": "Purple"}], "photo": "20230829-hunterpurple.jpg"}
+
 ]
