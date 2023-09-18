@@ -283,5 +283,6 @@
 {"date": "2023-08-29T00:00:00.000", "promotions": [{"name": "Hunter Jens", "rank": "Purple"}], "photo": "20230829-hunterpurple.jpg"},
 {"date": "2023-09-09T00:00:00.000", "promotions": [{"name": "Stuart Freeman", "rank": "Black"}], "photo": "20230909-stuartblack.jpg"},
 {"date": "2023-09-09T00:00:00.000", "promotions": [{"name": "Matt DeLeon", "rank": "Black"}], "photo": "20230909-mattblack.jpg"},
-{"date": "2023-09-09T00:00:00.000", "promotions": [{"name": "Kennith Jackson", "rank": "Black"}], "photo": "20230909-kennithblack.jpg"}
+{"date": "2023-09-09T00:00:00.000", "promotions": [{"name": "Kennith Jackson", "rank": "Black"}], "photo": "20230909-kennithblack.jpg"},
+{"date": "2023-09-16T00:00:00.000", "promotions": [{"name": "Mark Shields", "rank": "Brown"}], "photo": "20230916-markbrown.jpg"}
 ]
