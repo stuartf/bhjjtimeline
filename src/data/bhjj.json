@@ -232,6 +232,7 @@
 {"date": "2021-10-30T00:00:00.000", "promotions": [{"name": "Harold Soper", "rank": "Join"}], "photo": "20211030-haroldjoin.jpg"},
 {"date": "2021-12-04T00:00:00.000", "promotions": [{"name": "Clayton Vaught", "rank": "Purple"}, {"name": "Jason Oliver", "rank": "Purple"}], "photo": "20211204-claytonjasonpurple.jpg"},
 {"date": "2021-12-07T00:00:00.000", "promotions": [{"name": "Brian Taylor", "rank": "Blue"}], "photo": "20211207-brianblue.jpg"},
+{"date": "2022-01-08T00:00:00.000", "promotions": [{"name": "Kayl Thomas", "rank": "Join"}], "photo": "20220108-kayljoin.jpg"},
 {"date": "2022-01-10T00:00:00.000", "promotions": [{"name": "Greg Zabinski", "rank": "Brown"}], "photo": "20220110-gregbrown.jpg"},
 {"date": "2022-02-14T00:00:00.000", "promotions": [{"name": "Matthew Kirby", "rank": "Blue"}], "photo": "20220214-matthewblue.jpg"},
 {"date": "2022-02-15T00:00:00.000", "promotions": [{"name": "Max Ellerhorst", "rank": "Blue"}], "photo": "20220215-maxblue.jpg"},
@@ -284,5 +285,6 @@
 {"date": "2023-09-09T00:00:00.000", "promotions": [{"name": "Stuart Freeman", "rank": "Black"}], "photo": "20230909-stuartblack.jpg"},
 {"date": "2023-09-09T00:00:00.000", "promotions": [{"name": "Matt DeLeon", "rank": "Black"}], "photo": "20230909-mattblack.jpg"},
 {"date": "2023-09-09T00:00:00.000", "promotions": [{"name": "Kennith Jackson", "rank": "Black"}], "photo": "20230909-kennithblack.jpg"},
-{"date": "2023-09-16T00:00:00.000", "promotions": [{"name": "Mark Shields", "rank": "Brown"}], "photo": "20230916-markbrown.jpg"}
+{"date": "2023-09-16T00:00:00.000", "promotions": [{"name": "Mark Shields", "rank": "Brown"}], "photo": "20230916-markbrown.jpg"},
+{"date": "2023-11-07T00:00:00.000", "promotions": [{"name": "Kayl Thomas", "rank": "Blue"}, {"name": "Joe Lombardo", "rank": "Purple"}], "photo": "20231107-kaylbluejoepurple.jpg"}
 ]
