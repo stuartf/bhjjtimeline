@@ -286,5 +286,6 @@
 {"date": "2023-09-09T00:00:00.000", "promotions": [{"name": "Matt DeLeon", "rank": "Black"}], "photo": "20230909-mattblack.jpg"},
 {"date": "2023-09-09T00:00:00.000", "promotions": [{"name": "Kennith Jackson", "rank": "Black"}], "photo": "20230909-kennithblack.jpg"},
 {"date": "2023-09-16T00:00:00.000", "promotions": [{"name": "Mark Shields", "rank": "Brown"}], "photo": "20230916-markbrown.jpg"},
-{"date": "2023-11-07T00:00:00.000", "promotions": [{"name": "Kayl Thomas", "rank": "Blue"}, {"name": "Joe Lombardo", "rank": "Purple"}], "photo": "20231107-kaylbluejoepurple.jpg"}
+{"date": "2023-11-07T00:00:00.000", "promotions": [{"name": "Kayl Thomas", "rank": "Blue"}, {"name": "Joe Lombardo", "rank": "Purple"}], "photo": "20231107-kaylbluejoepurple.jpg"},
+{"date": "2023-11-21T00:00:00.000", "promotions": [{"name": "Ethan Arbiser", "rank": "Purple"}], "photo": "20231121-ethanpurple.jpg"}
 ]
