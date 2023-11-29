@@ -243,6 +243,7 @@
 {"date": "2022-04-25T00:00:00.000", "promotions": [{"name": "Adam Chechila", "rank": "Purple"}], "photo": "20220425-adampurple.jpg"},
 {"date": "2022-05-09T00:00:00.000", "promotions": [{"name": "John Simon", "rank": "Blue"}, {"name": "Vincent Lee", "rank": "Blue"}], "photo": "20220509-johnvincentblue.jpg"},
 {"date": "2022-05-12T00:00:00.000", "promotions": [{"name": "Mighten Yip", "rank": "Purple"}], "photo": "20220512-mightenpurple.jpg"},
+{"date": "2022-05-26T00:00:00.000", "promotions": [{"name": "Brenton Boyd", "rank": "Join"}], "photo": "20220526-brentonjoin.jpg"},
 {"date": "2022-06-04T00:00:00.000", "promotions": [{"name": "Max Leamy", "rank": "Blue"}], "photo": "20220604-maxblue.jpg"},
 {"date": "2022-06-25T00:00:00.000", "promotions": [{"name": "Darion Carter", "rank": "Blue"}], "photo": "20220625-darionblue.jpg"},
 {"date": "2022-07-14T00:00:00.000", "promotions": [{"name": "Bob Dekle", "rank": "Blue"}, {"name": "Zach Mahl", "rank": "Blue"}], "photo": "20220714-bobzachblue.jpg"},
@@ -287,5 +288,6 @@
 {"date": "2023-09-09T00:00:00.000", "promotions": [{"name": "Kennith Jackson", "rank": "Black"}], "photo": "20230909-kennithblack.jpg"},
 {"date": "2023-09-16T00:00:00.000", "promotions": [{"name": "Mark Shields", "rank": "Brown"}], "photo": "20230916-markbrown.jpg"},
 {"date": "2023-11-07T00:00:00.000", "promotions": [{"name": "Kayl Thomas", "rank": "Blue"}, {"name": "Joe Lombardo", "rank": "Purple"}], "photo": "20231107-kaylbluejoepurple.jpg"},
-{"date": "2023-11-21T00:00:00.000", "promotions": [{"name": "Ethan Arbiser", "rank": "Purple"}], "photo": "20231121-ethanpurple.jpg"}
+{"date": "2023-11-21T00:00:00.000", "promotions": [{"name": "Ethan Arbiser", "rank": "Purple"}], "photo": "20231121-ethanpurple.jpg"},
+{"date": "2023-11-28T00:00:00.000", "promotions": [{"name": "Brenton Boyd", "rank": "Blue"}], "photo": "20231128-brentonblue.jpg"}
 ]
