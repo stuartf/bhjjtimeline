@@ -25,7 +25,9 @@ const getLineageImg = async (path) => {
 
 const Lineage = ({path}) => {
   const [image, setImage] = useState(null);
-  useEffect(() => getLineageImg(path).then(setImage), []);
+  useEffect(() => {
+    getLineageImg(path).then(setImage);
+  }, []);
   return image ?
     <img src={image} style={{zIndex: 99}} /> :
     <SpinnerDiamond color='#ff101555' secondaryColor='#00000055' size='960' />;

@@ -60,7 +60,9 @@ export default function Home() {
       ));
   }, [filter]);
 
-  useEffect(() => setRosterPicked(null), [isImgOpen]);
+  useEffect(() => {
+    setRosterPicked(null);
+  }, [isImgOpen]);
 
   useEffect(() => {
     setIsImgOpen(imgPicked !== null);
