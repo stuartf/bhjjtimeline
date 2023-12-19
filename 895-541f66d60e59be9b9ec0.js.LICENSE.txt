@@ -1,0 +1,15 @@
+/*!
+ * @name JavaScript/NodeJS Merge v1.2.1
+ * @author yeikos
+ * @repository https://github.com/yeikos/js.merge
+ * Copyright 2014 yeikos - MIT license
+ * https://raw.github.com/yeikos/js.merge/master/LICENSE
+ */
+
+/**
+ * @file Embedded JavaScript templating engine. {@link http://ejs.co}
+ * @author Matthew Eernisse <mde@fleegix.org>
+ * @author Tiancheng "Timothy" Gu <timothygu99@gmail.com>
+ * @project EJS
+ * @license {@link http://www.apache.org/licenses/LICENSE-2.0 Apache License, Version 2.0}
+ */
