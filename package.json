@@ -15,7 +15,7 @@
     "deploy": "gatsby build --prefix-paths && aws --profile stuartf s3 sync /home/stuart/media/bhjj s3://bhjj && gh-pages -d public"
   },
   "dependencies": {
-    "@fontsource/open-sans": "^4.5.14",
+    "@fontsource/open-sans": "^5.0.20",
     "gatsby": "^5.9.1",
     "gatsby-source-filesystem": "^5.9.0",
     "gatsby-transformer-json": "^5.9.0",
