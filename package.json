@@ -16,25 +16,30 @@
   },
   "dependencies": {
     "@fontsource/open-sans": "^5.0.20",
-    "gatsby": "^5.9.1",
-    "gatsby-source-filesystem": "^5.9.0",
-    "gatsby-transformer-json": "^5.9.0",
+    "gatsby": "^5.13.0",
+    "gatsby-source-filesystem": "^5.13.0",
+    "gatsby-transformer-json": "^5.13.0",
     "magica": "^0.2.17",
     "prop-types": "^15.8.1",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-img-timeline": "^3.2.19",
     "react-minimal-pie-chart": "^8.4.0",
-    "react-tiny-popover": "^7.2.4",
+    "react-tiny-popover": "^8.0.4",
     "spinners-react": "^1.0.7"
   },
   "devDependencies": {
-    "eslint": "^8.40.0",
+    "eslint": "^8.56.0",
     "eslint-config-google": "^0.14.0",
     "eslint-plugin-json": "^3.1.0",
-    "eslint-plugin-react": "^7.32.2",
-    "gh-pages": "^5.0.0",
-    "prettier": "2.8.8"
+    "eslint-plugin-react": "^7.33.2",
+    "gh-pages": "^6.1.0",
+    "prettier": "3.1.1"
+  },
+  "overrides": {
+    "react-server-dom-webpack@0.0.0-experimental-c8b778b7f-20220825": {
+      "react": "^18.0.0"
+    }
   },
   "repository": {
     "type": "git",
