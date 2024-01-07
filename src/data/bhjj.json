@@ -274,6 +274,7 @@
 {"date": "2023-01-14T00:00:00.000", "promotions": [{"name": "Derek Kaivani", "rank": "Black Belt Third Degree"}], "photo": "20230114-derekthird.jpg"},
 {"date": "2023-01-21T00:00:00.000", "promotions": [{"name": "Whit Lanier", "rank": "Black"}], "photo": "20230121-whitblack.jpg"},
 {"date": "2023-01-28T00:00:00.000", "promotions": [{"name": "Kion Fallah", "rank": "Blue"}], "photo": "20230128-kionblue.jpg"},
+{"date": "2023-01-31T00:00:00.000", "promotions": [{"name": "Alex Vecchioni", "rank": "Join"}], "photo": "20230131-alexjoin.jpg"},
 {"date": "2023-02-14T00:00:00.000", "promotions": [{"name": "Clifton Dunford", "rank": "Blue"}], "photo": "20230214-cliftonblue.jpg"},
 {"date": "2023-04-27T00:00:00.000", "promotions": [{"name": "Jan Lystad", "rank": "Blue"}], "photo": "20230427-janblue.jpg"},
 {"date": "2023-05-02T00:00:00.000", "promotions": [{"name": "Will Buchly", "rank": "Blue"}], "photo": "20230502-willblue.jpg"},
@@ -299,4 +300,5 @@
 {"date": "2023-12-16T00:00:00.000", "promotions": [{"name": "John Olvera", "rank": "Blue"}, {"name": "Blake Parker", "rank": "Blue"}], "photo": "20231216-johnblakeblue.jpg"},
 {"date": "2023-12-19T00:00:00.000", "promotions": [{"name": "Grant Jones", "rank": "Brown"}, {"name": "Chris Jones", "rank": "Brown"}], "photo": "20231219-grantchrisbrown.jpg"},
 {"date": "2023-12-22T00:00:00.000", "promotions": [{"name": "Ernesto Espinoza", "rank": "Brown"}], "photo": "20231222-ernestobrown.jpg"}
+{"date": "2024-01-05T00:00:00.000", "promotions": [{"name": "Alex Vecchioni", "rank": "Blue"}], "photo": "20240105-alexblue.jpg"}
 ]
