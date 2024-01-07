@@ -299,6 +299,6 @@
 {"date": "2023-12-13T00:00:00.000", "promotions": [{"name": "Nick Panayioto", "rank": "Purple"}], "photo": "20231213-nickpurple.jpg"},
 {"date": "2023-12-16T00:00:00.000", "promotions": [{"name": "John Olvera", "rank": "Blue"}, {"name": "Blake Parker", "rank": "Blue"}], "photo": "20231216-johnblakeblue.jpg"},
 {"date": "2023-12-19T00:00:00.000", "promotions": [{"name": "Grant Jones", "rank": "Brown"}, {"name": "Chris Jones", "rank": "Brown"}], "photo": "20231219-grantchrisbrown.jpg"},
-{"date": "2023-12-22T00:00:00.000", "promotions": [{"name": "Ernesto Espinoza", "rank": "Brown"}], "photo": "20231222-ernestobrown.jpg"}
+{"date": "2023-12-22T00:00:00.000", "promotions": [{"name": "Ernesto Espinoza", "rank": "Brown"}], "photo": "20231222-ernestobrown.jpg"},
 {"date": "2024-01-05T00:00:00.000", "promotions": [{"name": "Alex Vecchioni", "rank": "Blue"}], "photo": "20240105-alexblue.jpg"}
 ]
