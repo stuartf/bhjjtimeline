@@ -235,6 +235,7 @@
 {"date": "2021-12-07T00:00:00.000", "promotions": [{"name": "Brian Taylor", "rank": "Blue"}], "photo": "20211207-brianblue.jpg"},
 {"date": "2022-01-08T00:00:00.000", "promotions": [{"name": "Kayl Thomas", "rank": "Join"}], "photo": "20220108-kayljoin.jpg"},
 {"date": "2022-01-10T00:00:00.000", "promotions": [{"name": "Greg Zabinski", "rank": "Brown"}], "photo": "20220110-gregbrown.jpg"},
+{"date": "2022-01-27T00:00:00.000", "promotions": [{"name": "Autumn Brown", "rank": "Join"}], "photo": "20220127-autumnjoin.jpg"},
 {"date": "2022-01-31T00:00:00.000", "promotions": [{"name": "John Olvera", "rank": "Join"}], "photo": "20220131-johnjoin.jpg"},
 {"date": "2022-02-14T00:00:00.000", "promotions": [{"name": "Matthew Kirby", "rank": "Blue"}], "photo": "20220214-matthewblue.jpg"},
 {"date": "2022-02-15T00:00:00.000", "promotions": [{"name": "Max Ellerhorst", "rank": "Blue"}], "photo": "20220215-maxblue.jpg"},
@@ -302,5 +303,6 @@
 {"date": "2023-12-19T00:00:00.000", "promotions": [{"name": "Grant Jones", "rank": "Brown"}, {"name": "Chris Jones", "rank": "Brown"}], "photo": "20231219-grantchrisbrown.jpg"},
 {"date": "2023-12-22T00:00:00.000", "promotions": [{"name": "Ernesto Espinoza", "rank": "Brown"}], "photo": "20231222-ernestobrown.jpg"},
 {"date": "2024-01-05T00:00:00.000", "promotions": [{"name": "Alex Vecchioni", "rank": "Blue"}], "photo": "20240105-alexblue.jpg"},
-{"date": "2024-01-29T00:00:00.000", "promotions": [{"name": "Hux Riddle", "rank": "Blue"}], "photo": "20240129-huxblue.jpg"}
+{"date": "2024-01-29T00:00:00.000", "promotions": [{"name": "Hux Riddle", "rank": "Blue"}], "photo": "20240129-huxblue.jpg"},
+{"date": "2024-04-01T00:00:00.000", "promotions": [{"name": "Autumn Brown", "rank": "Blue"}], "photo": "20240401-autumnblue.jpg"}
 ]
