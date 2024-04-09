@@ -253,6 +253,7 @@
 {"date": "2022-06-25T00:00:00.000", "promotions": [{"name": "Darion Carter", "rank": "Blue"}], "photo": "20220625-darionblue.jpg"},
 {"date": "2022-07-14T00:00:00.000", "promotions": [{"name": "Bob Dekle", "rank": "Blue"}, {"name": "Zach Mahl", "rank": "Blue"}], "photo": "20220714-bobzachblue.jpg"},
 {"date": "2022-07-19T00:00:00.000", "promotions": [{"name": "Robert Walker", "rank": "Blue"}], "photo": "20220719-robertblue.jpg"},
+{"date": "2022-07-20T00:00:00.000", "promotions": [{"name": "Aryeh Mangel", "rank": "Join"}], "photo": "20220720-aryehjoin.jpg"},
 {"date": "2022-07-26T00:00:00.000", "promotions": [{"name": "Roman Merzon", "rank": "Blue"}], "photo": "20220726-romanblue.jpg"},
 {"date": "2022-08-05T00:00:00.000", "promotions": [{"name": "Brock Clement", "rank": "Blue"}], "photo": "20220805-brockblue.jpg"},
 {"date": "2022-08-10T00:00:00.000", "promotions": [{"name": "Joe Vo", "rank": "Brown"}], "photo": "20220810-joebrown.jpg"},
@@ -304,5 +305,6 @@
 {"date": "2023-12-22T00:00:00.000", "promotions": [{"name": "Ernesto Espinoza", "rank": "Brown"}], "photo": "20231222-ernestobrown.jpg"},
 {"date": "2024-01-05T00:00:00.000", "promotions": [{"name": "Alex Vecchioni", "rank": "Blue"}], "photo": "20240105-alexblue.jpg"},
 {"date": "2024-01-29T00:00:00.000", "promotions": [{"name": "Hux Riddle", "rank": "Blue"}], "photo": "20240129-huxblue.jpg"},
-{"date": "2024-04-01T00:00:00.000", "promotions": [{"name": "Autumn Brown", "rank": "Blue"}], "photo": "20240401-autumnblue.jpg"}
+{"date": "2024-04-01T00:00:00.000", "promotions": [{"name": "Autumn Brown", "rank": "Blue"}], "photo": "20240401-autumnblue.jpg"},
+{"date": "2024-04-03T00:00:00.000", "promotions": [{"name": "Aryeh Mangel", "rank": "Blue"}], "photo": "20240403-aryehblue.jpg"}
 ]
