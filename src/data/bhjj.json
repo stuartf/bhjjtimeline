@@ -307,5 +307,6 @@
 {"date": "2024-01-29T00:00:00.000", "promotions": [{"name": "Hux Riddle", "rank": "Blue"}], "photo": "20240129-huxblue.jpg"},
 {"date": "2024-04-01T00:00:00.000", "promotions": [{"name": "Autumn Brown", "rank": "Blue"}], "photo": "20240401-autumnblue.jpg"},
 {"date": "2024-04-03T00:00:00.000", "promotions": [{"name": "Aryeh Mangel", "rank": "Blue"}], "photo": "20240403-aryehblue.jpg"},
-{"date": "2024-04-24T00:00:00.000", "promotions": [{"name": "Randy Wright", "rank": "Purple"}], "photo": "20240424-randypurple.jpg"}
+{"date": "2024-04-24T00:00:00.000", "promotions": [{"name": "Randy Wright", "rank": "Purple"}], "photo": "20240424-randypurple.jpg"},
+{"date": "2024-04-26T00:00:00.000", "promotions": [{"name": "Cederic Pimentel", "rank": "Purple"}], "photo": "20240426-cedericpurple.jpg"}
 ]
