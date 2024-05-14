@@ -241,7 +241,7 @@
 {"date": "2022-02-15T00:00:00.000", "promotions": [{"name": "Max Ellerhorst", "rank": "Blue"}], "photo": "20220215-maxblue.jpg"},
 {"date": "2022-02-21T00:00:00.000", "promotions": [{"name": "Clifton Dunford", "rank": "Join"}], "photo": "20220221-cliftonjoin.jpg"},
 {"date": "2022-03-01T00:00:00.000", "promotions": [{"name": "Neisa Yin", "rank": "Blue"}], "photo": "20220301-neisablue.jpg"},
-{"date": "2022-03-05T00:00:00.000", "promotions": [{"name": "Joshua Purswell", "rank": "Join"}], "photo": "20220305-joshjoin.jpg"},
+{"date": "2022-03-05T00:00:00.000", "promotions": [{"name": "Joshua Purswell", "rank": "Join"}, {"name": "Wesley Bowman", "rank": "Join"}], "photo": "20220305-joshjoin.jpg"},
 {"date": "2022-03-19T00:00:00.000", "promotions": [{"name": "Erik Lystad", "rank": "Purple"}], "photo": "20220319-erikpurple.jpg"},
 {"date": "2022-04-04T00:00:00.000", "promotions": [{"name": "Daniel Washburn", "rank": "Join"}], "photo": "20220404-danieljoin.jpg"},
 {"date": "2022-04-25T00:00:00.000", "promotions": [{"name": "Adam Chechila", "rank": "Purple"}], "photo": "20220425-adampurple.jpg"},
@@ -309,5 +309,6 @@
 {"date": "2024-04-03T00:00:00.000", "promotions": [{"name": "Aryeh Mangel", "rank": "Blue"}], "photo": "20240403-aryehblue.jpg"},
 {"date": "2024-04-24T00:00:00.000", "promotions": [{"name": "Randy Wright", "rank": "Purple"}], "photo": "20240424-randypurple.jpg"},
 {"date": "2024-04-26T00:00:00.000", "promotions": [{"name": "Cederic Pimentel", "rank": "Purple"}], "photo": "20240426-cedericpurple.jpg"},
-{"date": "2024-05-06T00:00:00.000", "promotions": [{"name": "Kristen Wilder", "rank": "Blue"}], "photo": "20240506-kristenblue.jpg"}
+{"date": "2024-05-06T00:00:00.000", "promotions": [{"name": "Kristen Wilder", "rank": "Blue"}], "photo": "20240506-kristenblue.jpg"},
+{"date": "2024-05-06T00:00:00.000", "promotions": [{"name": "Wesley Bowman", "rank": "Blue"}], "photo": "20240514-wesblue.jpg"}
 ]
