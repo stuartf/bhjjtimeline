@@ -279,6 +279,7 @@
 {"date": "2023-01-28T00:00:00.000", "promotions": [{"name": "Kion Fallah", "rank": "Blue"}], "photo": "20230128-kionblue.jpg"},
 {"date": "2023-01-31T00:00:00.000", "promotions": [{"name": "Alex Vecchioni", "rank": "Join"}], "photo": "20230131-alexjoin.jpg"},
 {"date": "2023-02-14T00:00:00.000", "promotions": [{"name": "Clifton Dunford", "rank": "Blue"}], "photo": "20230214-cliftonblue.jpg"},
+{"date": "2023-03-03T00:00:00.000", "promotions": [{"name": "Frank Wilson", "rank": "Join"}], "photo": "20230303-frankjoin.jpg"},
 {"date": "2023-04-27T00:00:00.000", "promotions": [{"name": "Jan Lystad", "rank": "Blue"}], "photo": "20230427-janblue.jpg"},
 {"date": "2023-05-02T00:00:00.000", "promotions": [{"name": "Will Buchly", "rank": "Blue"}], "photo": "20230502-willblue.jpg"},
 {"date": "2023-05-04T00:00:00.000", "promotions": [{"name": "Thomas Pietruszewski", "rank": "Purple"}], "photo": "20230504-thomaspurple.jpg"},
@@ -310,5 +311,6 @@
 {"date": "2024-04-24T00:00:00.000", "promotions": [{"name": "Randy Wright", "rank": "Purple"}], "photo": "20240424-randypurple.jpg"},
 {"date": "2024-04-26T00:00:00.000", "promotions": [{"name": "Cederic Pimentel", "rank": "Purple"}], "photo": "20240426-cedericpurple.jpg"},
 {"date": "2024-05-06T00:00:00.000", "promotions": [{"name": "Kristen Wilder", "rank": "Blue"}], "photo": "20240506-kristenblue.jpg"},
-{"date": "2024-05-06T00:00:00.000", "promotions": [{"name": "Wesley Bowman", "rank": "Blue"}], "photo": "20240514-wesblue.jpg"}
+{"date": "2024-05-14T00:00:00.000", "promotions": [{"name": "Wesley Bowman", "rank": "Blue"}], "photo": "20240514-wesblue.jpg"},
+{"date": "2024-05-17T00:00:00.000", "promotions": [{"name": "Frank Wilson", "rank": "Blue"}], "photo": "20240517-frankblue.jpg"}
 ]
