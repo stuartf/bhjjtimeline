@@ -264,6 +264,7 @@
 {"date": "2022-09-07T00:00:00.000", "promotions": [{"name": "Daniel Washburn", "rank": "Blue"}, {"name": "Kyle Kritz", "rank": "Blue"}], "photo": "20220907-danielkyleblue.jpg"},
 {"date": "2022-09-09T00:00:00.000", "promotions": [{"name": "Brandon Wharton", "rank": "Purple"}, {"name": "Michael Gibson", "rank": "Blue"}], "photo": "20220909-brandonmichael.jpg"},
 {"date": "2022-09-10T00:00:00.000", "promotions": [{"name": "Sam Ross", "rank": "Brown"}], "photo": "20220910-sambrown.jpg"},
+{"date": "2022-09-12T00:00:00.000", "promotions": [{"name": "Spencer Mashburn", "rank": "Join"}], "photo": "20220912-spencerjoin.jpg"},
 {"date": "2022-09-16T00:00:00.000", "promotions": [{"name": "Kirk Luca", "rank": "Purple"}], "photo": "20220916-kirkpurple.jpg"},
 {"date": "2022-09-17T00:00:00.000", "promotions": [{"name": "Marc Gebeily", "rank": "Brown"}], "photo": "20220917-marcbrown.jpg"},
 {"date": "2022-09-27T00:00:00.000", "promotions": [{"name": "Michael Leamy", "rank": "Brown"}], "photo": "20220927-michaelbrown.jpg"},
@@ -312,5 +313,6 @@
 {"date": "2024-04-26T00:00:00.000", "promotions": [{"name": "Cederic Pimentel", "rank": "Purple"}], "photo": "20240426-cedericpurple.jpg"},
 {"date": "2024-05-06T00:00:00.000", "promotions": [{"name": "Kristen Wilder", "rank": "Blue"}], "photo": "20240506-kristenblue.jpg"},
 {"date": "2024-05-14T00:00:00.000", "promotions": [{"name": "Wesley Bowman", "rank": "Blue"}], "photo": "20240514-wesblue.jpg"},
-{"date": "2024-05-17T00:00:00.000", "promotions": [{"name": "Frank Wilson", "rank": "Blue"}], "photo": "20240517-frankblue.jpg"}
+{"date": "2024-05-17T00:00:00.000", "promotions": [{"name": "Frank Wilson", "rank": "Blue"}], "photo": "20240517-frankblue.jpg"},
+{"date": "2024-05-20T00:00:00.000", "promotions": [{"name": "Spencer Mashburn", "rank": "Blue"}], "photo": "20240520-spencerblue.jpg"}
 ]
