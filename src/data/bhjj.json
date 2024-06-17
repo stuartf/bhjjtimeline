@@ -243,6 +243,7 @@
 {"date": "2022-03-01T00:00:00.000", "promotions": [{"name": "Neisa Yin", "rank": "Blue"}], "photo": "20220301-neisablue.jpg"},
 {"date": "2022-03-05T00:00:00.000", "promotions": [{"name": "Joshua Purswell", "rank": "Join"}, {"name": "Wesley Bowman", "rank": "Join"}], "photo": "20220305-joshjoin.jpg"},
 {"date": "2022-03-19T00:00:00.000", "promotions": [{"name": "Erik Lystad", "rank": "Purple"}], "photo": "20220319-erikpurple.jpg"},
+{"date": "2022-03-26T00:00:00.000", "promotions": [{"name": "Jason Assenmacher", "rank": "Join"}], "photo": "20220326-jasonjoin.jpg"},
 {"date": "2022-04-04T00:00:00.000", "promotions": [{"name": "Daniel Washburn", "rank": "Join"}], "photo": "20220404-danieljoin.jpg"},
 {"date": "2022-04-25T00:00:00.000", "promotions": [{"name": "Adam Chechila", "rank": "Purple"}], "photo": "20220425-adampurple.jpg"},
 {"date": "2022-05-09T00:00:00.000", "promotions": [{"name": "John Simon", "rank": "Blue"}, {"name": "Vincent Lee", "rank": "Blue"}], "photo": "20220509-johnvincentblue.jpg"},
@@ -314,5 +315,6 @@
 {"date": "2024-05-06T00:00:00.000", "promotions": [{"name": "Kristen Wilder", "rank": "Blue"}], "photo": "20240506-kristenblue.jpg"},
 {"date": "2024-05-14T00:00:00.000", "promotions": [{"name": "Wesley Bowman", "rank": "Blue"}], "photo": "20240514-wesblue.jpg"},
 {"date": "2024-05-17T00:00:00.000", "promotions": [{"name": "Frank Wilson", "rank": "Blue"}], "photo": "20240517-frankblue.jpg"},
-{"date": "2024-05-20T00:00:00.000", "promotions": [{"name": "Spencer Mashburn", "rank": "Blue"}], "photo": "20240520-spencerblue.jpg"}
+{"date": "2024-05-20T00:00:00.000", "promotions": [{"name": "Spencer Mashburn", "rank": "Blue"}], "photo": "20240520-spencerblue.jpg"},
+{"date": "2024-06-17T00:00:00.000", "promotions": [{"name": "Jason Assenmacher", "rank": "Purple"}], "photo": "20240617-jasonpurple.jpg"}
 ]
