@@ -279,6 +279,7 @@
 {"date": "2023-01-14T00:00:00.000", "promotions": [{"name": "Taylor Reed", "rank": "Black"}], "photo": "20230114-taylorblack.jpg"},
 {"date": "2023-01-14T00:00:00.000", "promotions": [{"name": "Derek Kaivani", "rank": "Black Belt Third Degree"}], "photo": "20230114-derekthird.jpg"},
 {"date": "2023-01-21T00:00:00.000", "promotions": [{"name": "Whit Lanier", "rank": "Black"}], "photo": "20230121-whitblack.jpg"},
+{"date": "2023-01-22T00:00:00.000", "promotions": [{"name": "Cole Varner", "rank": "Join"}], "photo": "20230122-colejoin.jpg"},
 {"date": "2023-01-28T00:00:00.000", "promotions": [{"name": "Kion Fallah", "rank": "Blue"}], "photo": "20230128-kionblue.jpg"},
 {"date": "2023-01-31T00:00:00.000", "promotions": [{"name": "Alex Vecchioni", "rank": "Join"}], "photo": "20230131-alexjoin.jpg"},
 {"date": "2023-02-14T00:00:00.000", "promotions": [{"name": "Clifton Dunford", "rank": "Blue"}], "photo": "20230214-cliftonblue.jpg"},
@@ -318,5 +319,7 @@
 {"date": "2024-05-17T00:00:00.000", "promotions": [{"name": "Frank Wilson", "rank": "Blue"}], "photo": "20240517-frankblue.jpg"},
 {"date": "2024-05-20T00:00:00.000", "promotions": [{"name": "Spencer Mashburn", "rank": "Blue"}], "photo": "20240520-spencerblue.jpg"},
 {"date": "2024-06-17T00:00:00.000", "promotions": [{"name": "Jason Assenmacher", "rank": "Purple"}], "photo": "20240617-jasonpurple.jpg"},
-{"date": "2024-06-21T00:00:00.000", "promotions": [{"name": "Michael Johnson", "rank": "Blue"}, {"name": "Stephen Ireland", "rank": "Purple"}], "photo": "20240621-mikebluestephenpurple.jpg"}
+{"date": "2024-06-21T00:00:00.000", "promotions": [{"name": "Michael Johnson", "rank": "Blue"}, {"name": "Stephen Ireland", "rank": "Purple"}], "photo": "20240621-mikebluestephenpurple.jpg"},
+{"date": "2024-06-24T00:00:00.000", "promotions": [{"name": "Cole Varner", "rank": "Blue"}], "photo": "20240624-coleblue.jpg"},
+{"date": "2024-06-25T00:00:00.000", "promotions": [{"name": "John Dyer", "rank": "Purple"}], "photo": "20240625-johnpurple.jpg"}
 ]
