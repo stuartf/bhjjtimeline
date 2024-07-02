@@ -322,5 +322,6 @@
 {"date": "2024-06-21T00:00:00.000", "promotions": [{"name": "Michael Johnson", "rank": "Blue"}, {"name": "Stephen Ireland", "rank": "Purple"}], "photo": "20240621-mikebluestephenpurple.jpg"},
 {"date": "2024-06-24T00:00:00.000", "promotions": [{"name": "Cole Varner", "rank": "Blue"}], "photo": "20240624-coleblue.jpg"},
 {"date": "2024-06-25T00:00:00.000", "promotions": [{"name": "John Dyer", "rank": "Purple"}], "photo": "20240625-johnpurple.jpg"},
-{"date": "2024-06-28T00:00:00.000", "promotions": [{"name": "Allison Jacobs", "rank": "Brown"}], "photo": "20240628-allisonbrown.jpg"}
+{"date": "2024-06-28T00:00:00.000", "promotions": [{"name": "Allison Jacobs", "rank": "Brown"}], "photo": "20240628-allisonbrown.jpg"},
+{"date": "2024-07-01T00:00:00.000", "promotions": [{"name": "Matthew Scafidi", "rank": "Brown"}], "photo": "20240701-mattbrown.jpg"}
 ]
