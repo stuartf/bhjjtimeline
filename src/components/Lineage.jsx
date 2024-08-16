@@ -3,6 +3,15 @@ import PropTypes from 'prop-types';
 import {main} from 'magica';
 import {SpinnerDiamond} from 'spinners-react';
 
+const bufferToBase64URL = async (buffer) => {
+  const base64url = await new Promise((r) => {
+    const reader = new FileReader();
+    reader.onload = () => r(reader.result);
+    reader.readAsDataURL(new Blob([buffer]));
+  });
+  return base64url;
+};
+
 const getLineageImg = async (path) => {
   const elements = path.split('/');
   const file = elements[elements.length - 1];
@@ -17,10 +26,7 @@ const getLineageImg = async (path) => {
       path,
     ],
   });
-  console.log(result);
-  return `data:image/png;base64,${btoa(
-      String.fromCharCode(...result.outputFiles[0].content),
-  )}`;
+  return bufferToBase64URL(result.outputFiles[0].content);
 };
 
 const Lineage = ({path}) => {
