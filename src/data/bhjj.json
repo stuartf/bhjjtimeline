@@ -278,6 +278,7 @@
 {"date": "2023-01-05T00:00:00.000", "promotions": [{"name": "Monize Siqueira", "rank": "Blue"}], "photo": "20230105-monizeblue.jpg"},
 {"date": "2023-01-14T00:00:00.000", "promotions": [{"name": "Taylor Reed", "rank": "Black"}], "photo": "20230114-taylorblack.jpg"},
 {"date": "2023-01-14T00:00:00.000", "promotions": [{"name": "Derek Kaivani", "rank": "Black Belt Third Degree"}], "photo": "20230114-derekthird.jpg"},
+{"date": "2023-01-16T00:00:00.000", "promotions": [{"name": "Gabriel Mieles", "rank": "Join"}], "photo": "20230116-gabrieljoin.jpg"},
 {"date": "2023-01-21T00:00:00.000", "promotions": [{"name": "Whit Lanier", "rank": "Black"}], "photo": "20230121-whitblack.jpg"},
 {"date": "2023-01-22T00:00:00.000", "promotions": [{"name": "Cole Varner", "rank": "Join"}], "photo": "20230122-colejoin.jpg"},
 {"date": "2023-01-28T00:00:00.000", "promotions": [{"name": "Kion Fallah", "rank": "Blue"}], "photo": "20230128-kionblue.jpg"},
@@ -324,5 +325,6 @@
 {"date": "2024-06-25T00:00:00.000", "promotions": [{"name": "John Dyer", "rank": "Purple"}], "photo": "20240625-johnpurple.jpg"},
 {"date": "2024-06-28T00:00:00.000", "promotions": [{"name": "Allison Jacobs", "rank": "Brown"}], "photo": "20240628-allisonbrown.jpg"},
 {"date": "2024-07-01T00:00:00.000", "promotions": [{"name": "Matthew Scafidi", "rank": "Brown"}], "photo": "20240701-mattbrown.jpg"},
-{"date": "2024-08-14T00:00:00.000", "promotions": [{"name": "Jake Whelan", "rank": "Blue"}], "photo": "20240814-jakeblue.jpg"}
+{"date": "2024-08-14T00:00:00.000", "promotions": [{"name": "Jake Whelan", "rank": "Blue"}], "photo": "20240814-jakeblue.jpg"},
+{"date": "2024-08-19T00:00:00.000", "promotions": [{"name": "Gabriel Mieles", "rank": "Blue"}], "photo": "20240819-gabrielblue.jpg"}
 ]
