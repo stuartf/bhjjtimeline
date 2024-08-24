@@ -326,5 +326,8 @@
 {"date": "2024-06-28T00:00:00.000", "promotions": [{"name": "Allison Jacobs", "rank": "Brown"}], "photo": "20240628-allisonbrown.jpg"},
 {"date": "2024-07-01T00:00:00.000", "promotions": [{"name": "Matthew Scafidi", "rank": "Brown"}], "photo": "20240701-mattbrown.jpg"},
 {"date": "2024-08-14T00:00:00.000", "promotions": [{"name": "Jake Whelan", "rank": "Blue"}], "photo": "20240814-jakeblue.jpg"},
-{"date": "2024-08-19T00:00:00.000", "promotions": [{"name": "Gabriel Mieles", "rank": "Blue"}], "photo": "20240819-gabrielblue.jpg"}
+{"date": "2024-08-19T00:00:00.000", "promotions": [{"name": "Gabriel Mieles", "rank": "Blue"}], "photo": "20240819-gabrielblue.jpg"},
+{"date": "2024-08-24T00:00:00.000", "promotions": [{"name": "Fernando Puerto", "rank": "Black"}], "photo": "20240824-fernandoblack.jpg"},
+{"date": "2024-08-24T00:00:00.000", "promotions": [{"name": "Eduardo Galvao", "rank": "Black"}], "photo": "20240824-eduardoblack.jpg"},
+{"date": "2024-08-24T00:00:00.000", "promotions": [{"name": "Greg Zabinski", "rank": "Black"}], "photo": "20240824-gregblack.jpg"}
 ]
