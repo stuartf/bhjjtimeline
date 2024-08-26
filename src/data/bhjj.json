@@ -260,6 +260,7 @@
 {"date": "2022-08-10T00:00:00.000", "promotions": [{"name": "Joe Vo", "rank": "Brown"}], "photo": "20220810-joebrown.jpg"},
 {"date": "2022-08-13T00:00:00.000", "promotions": [{"name": "Will Mart", "rank": "Blue"}], "photo": "20220813-willjoin.jpg"},
 {"date": "2022-08-18T00:00:00.000", "promotions": [{"name": "Cole Delude", "rank": "Blue"}], "photo": "20220818-coleblue.jpg"},
+{"date": "2022-08-29T00:00:00.000", "promotions": [{"name": "Justin Webster", "rank": "Join"}], "photo": "20220829-justinjoin.jpg"},
 {"date": "2022-09-05T00:00:00.000", "promotions": [{"name": "Matt Shand", "rank": "Brown"}], "photo": "20220905-mattbrown.jpg"},
 {"date": "2022-09-06T00:00:00.000", "promotions": [{"name": "Michael Adesso", "rank": "Purple"}, {"name": "Jose Bejerano", "rank": "Blue"}], "photo": "20220906-michaeljose.jpg"},
 {"date": "2022-09-07T00:00:00.000", "promotions": [{"name": "Daniel Washburn", "rank": "Blue"}, {"name": "Kyle Kritz", "rank": "Blue"}], "photo": "20220907-danielkyleblue.jpg"},
@@ -329,5 +330,6 @@
 {"date": "2024-08-19T00:00:00.000", "promotions": [{"name": "Gabriel Mieles", "rank": "Blue"}], "photo": "20240819-gabrielblue.jpg"},
 {"date": "2024-08-24T00:00:00.000", "promotions": [{"name": "Fernando Puerto", "rank": "Black"}], "photo": "20240824-fernandoblack.jpg"},
 {"date": "2024-08-24T00:00:00.000", "promotions": [{"name": "Eduardo Galvao", "rank": "Black"}], "photo": "20240824-eduardoblack.jpg"},
-{"date": "2024-08-24T00:00:00.000", "promotions": [{"name": "Greg Zabinski", "rank": "Black"}], "photo": "20240824-gregblack.jpg"}
+{"date": "2024-08-24T00:00:00.000", "promotions": [{"name": "Greg Zabinski", "rank": "Black"}], "photo": "20240824-gregblack.jpg"},
+{"date": "2024-08-26T00:00:00.000", "promotions": [{"name": "Justin Webster", "rank": "Brown"}], "photo": "20240826-justinbrown.jpg"}
 ]
