@@ -253,6 +253,7 @@
 {"date": "2022-06-20T00:00:00.000", "promotions": [{"name": "Hux Riddle", "rank": "Join"}], "photo": "20220620-huxjoin.jpg"},
 {"date": "2022-06-25T00:00:00.000", "promotions": [{"name": "Darion Carter", "rank": "Blue"}], "photo": "20220625-darionblue.jpg"},
 {"date": "2022-07-14T00:00:00.000", "promotions": [{"name": "Bob Dekle", "rank": "Blue"}, {"name": "Zach Mahl", "rank": "Blue"}], "photo": "20220714-bobzachblue.jpg"},
+{"date": "2022-07-11T00:00:00.000", "promotions": [{"name": "John Meskill", "rank": "Join"}], "photo": "20220711-johnjoin.jpg"},
 {"date": "2022-07-19T00:00:00.000", "promotions": [{"name": "Robert Walker", "rank": "Blue"}], "photo": "20220719-robertblue.jpg"},
 {"date": "2022-07-20T00:00:00.000", "promotions": [{"name": "Aryeh Mangel", "rank": "Join"}], "photo": "20220720-aryehjoin.jpg"},
 {"date": "2022-07-26T00:00:00.000", "promotions": [{"name": "Roman Merzon", "rank": "Blue"}], "photo": "20220726-romanblue.jpg"},
@@ -332,5 +333,6 @@
 {"date": "2024-08-24T00:00:00.000", "promotions": [{"name": "Fernando Puerto", "rank": "Black"}], "photo": "20240824-fernandoblack.jpg"},
 {"date": "2024-08-24T00:00:00.000", "promotions": [{"name": "Eduardo Galvao", "rank": "Black"}], "photo": "20240824-eduardoblack.jpg"},
 {"date": "2024-08-24T00:00:00.000", "promotions": [{"name": "Greg Zabinski", "rank": "Black"}], "photo": "20240824-gregblack.jpg"},
-{"date": "2024-08-26T00:00:00.000", "promotions": [{"name": "Justin Webster", "rank": "Brown"}], "photo": "20240826-justinbrown.jpg"}
+{"date": "2024-08-26T00:00:00.000", "promotions": [{"name": "Justin Webster", "rank": "Brown"}], "photo": "20240826-justinbrown.jpg"},
+{"date": "2024-09-12T00:00:00.000", "promotions": [{"name": "John Meskill", "rank": "Purple"}], "photo": "20240912-johnpurple.jpg"}
 ]
