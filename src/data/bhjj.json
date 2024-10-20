@@ -338,5 +338,6 @@
 {"date": "2024-09-12T00:00:00.000", "promotions": [{"name": "John Meskill", "rank": "Purple"}], "photo": "20240912-johnpurple.jpg"},
 {"date": "2024-09-17T00:00:00.000", "promotions": [{"name": "Annie Corriveau", "rank": "Purple"}], "photo": "20240917-anniepurple.jpg"},
 {"date": "2024-09-30T00:00:00.000", "promotions": [{"name": "John Simon", "rank": "Purple"}], "photo": "20240930-johnpurple.jpg"},
-{"date": "2024-10-01T00:00:00.000", "promotions": [{"name": "Vincent Lee", "rank": "Purple"}, {"name": "Daniel Washburn", "rank": "Purple"}], "photo": "20241001-vincentdanielpurple.jpg"}
+{"date": "2024-10-01T00:00:00.000", "promotions": [{"name": "Vincent Lee", "rank": "Purple"}, {"name": "Daniel Washburn", "rank": "Purple"}], "photo": "20241001-vincentdanielpurple.jpg"},
+{"date": "2024-10-19T00:00:00.000", "promotions": [{"name": "Jensen Kaivani", "rank": "Blue"}], "photo": "20241019-jensenblue.jpg"}
 ]
