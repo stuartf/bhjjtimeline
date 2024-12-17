@@ -291,6 +291,7 @@
 {"date": "2023-04-27T00:00:00.000", "promotions": [{"name": "Jan Lystad", "rank": "Blue"}], "photo": "20230427-janblue.jpg"},
 {"date": "2023-05-02T00:00:00.000", "promotions": [{"name": "Will Buchly", "rank": "Blue"}], "photo": "20230502-willblue.jpg"},
 {"date": "2023-05-04T00:00:00.000", "promotions": [{"name": "Thomas Pietruszewski", "rank": "Purple"}], "photo": "20230504-thomaspurple.jpg"},
+{"date": "2023-05-12T00:00:00.000", "promotions": [{"name": "Taylor Jackson", "rank": "Join"}], "photo": "20230512-taylorjoin.jpg"},
 {"date": "2023-05-17T00:00:00.000", "promotions": [{"name": "Thomas Flowers", "rank": "Blue"}], "photo": "20230517-thomasblue.jpg"},
 {"date": "2023-06-05T00:00:00.000", "promotions": [{"name": "Michael Wigal", "rank": "Purple"}, {"name": "Justin Johnson", "rank": "Purple"}], "photo": "20230605-michaeljjpurple.jpg"},
 {"date": "2023-06-27T00:00:00.000", "promotions": [{"name": "Trent Watkins", "rank": "Blue"}], "photo": "20230627-trentblue.jpg"},
@@ -341,5 +342,6 @@
 {"date": "2024-09-30T00:00:00.000", "promotions": [{"name": "John Simon", "rank": "Purple"}], "photo": "20240930-johnpurple.jpg"},
 {"date": "2024-10-01T00:00:00.000", "promotions": [{"name": "Vincent Lee", "rank": "Purple"}, {"name": "Daniel Washburn", "rank": "Purple"}], "photo": "20241001-vincentdanielpurple.jpg"},
 {"date": "2024-10-19T00:00:00.000", "promotions": [{"name": "Jensen Kaivani", "rank": "Blue"}], "photo": "20241019-jensenblue.jpg"},
-{"date": "2024-12-03T00:00:00.000", "promotions": [{"name": "Chase Duncan", "rank": "Blue"}], "photo": "20241203-chaseblue.jpg"}
+{"date": "2024-12-03T00:00:00.000", "promotions": [{"name": "Chase Duncan", "rank": "Blue"}], "photo": "20241203-chaseblue.jpg"},
+{"date": "2024-12-16T00:00:00.000", "promotions": [{"name": "Taylor Jackson", "rank": "Blue"}], "photo": "20241216-taylorblue.jpg"}
 ]
