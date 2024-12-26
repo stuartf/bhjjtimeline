@@ -345,5 +345,6 @@
 {"date": "2024-10-19T00:00:00.000", "promotions": [{"name": "Jensen Kaivani", "rank": "Blue"}], "photo": "20241019-jensenblue.jpg"},
 {"date": "2024-12-03T00:00:00.000", "promotions": [{"name": "Chase Duncan", "rank": "Blue"}], "photo": "20241203-chaseblue.jpg"},
 {"date": "2024-12-07T00:00:00.000", "promotions": [{"name": "Daren Roberts", "rank": "Black Belt Second Degree"}], "photo": "20241207-daren2nd.jpg"},
-{"date": "2024-12-16T00:00:00.000", "promotions": [{"name": "Taylor Jackson", "rank": "Blue"}], "photo": "20241216-taylorblue.jpg"}
+{"date": "2024-12-16T00:00:00.000", "promotions": [{"name": "Taylor Jackson", "rank": "Blue"}], "photo": "20241216-taylorblue.jpg"},
+{"date": "2024-12-23T00:00:00.000", "promotions": [{"name": "Erik Lystad", "rank": "Brown"}], "photo": "20241223-erikbrown.jpg"}
 ]
