@@ -293,6 +293,7 @@
 {"date": "2023-05-04T00:00:00.000", "promotions": [{"name": "Thomas Pietruszewski", "rank": "Purple"}], "photo": "20230504-thomaspurple.jpg"},
 {"date": "2023-05-12T00:00:00.000", "promotions": [{"name": "Taylor Jackson", "rank": "Join"}], "photo": "20230512-taylorjoin.jpg"},
 {"date": "2023-05-17T00:00:00.000", "promotions": [{"name": "Thomas Flowers", "rank": "Blue"}], "photo": "20230517-thomasblue.jpg"},
+{"date": "2023-06-01T00:00:00.000", "promotions": [{"name": "Bryant Holt", "rank": "Join"}], "photo": "20230601-bryantjoin.jpg"},
 {"date": "2023-06-05T00:00:00.000", "promotions": [{"name": "Michael Wigal", "rank": "Purple"}, {"name": "Justin Johnson", "rank": "Purple"}], "photo": "20230605-michaeljjpurple.jpg"},
 {"date": "2023-06-27T00:00:00.000", "promotions": [{"name": "Trent Watkins", "rank": "Blue"}], "photo": "20230627-trentblue.jpg"},
 {"date": "2023-07-10T00:00:00.000", "promotions": [{"name": "Chase Duncan", "rank": "Join"}], "photo": "20230710-chasejoin.jpg"},
@@ -346,5 +347,6 @@
 {"date": "2024-12-03T00:00:00.000", "promotions": [{"name": "Chase Duncan", "rank": "Blue"}], "photo": "20241203-chaseblue.jpg"},
 {"date": "2024-12-07T00:00:00.000", "promotions": [{"name": "Daren Roberts", "rank": "Black Belt Second Degree"}], "photo": "20241207-daren2nd.jpg"},
 {"date": "2024-12-16T00:00:00.000", "promotions": [{"name": "Taylor Jackson", "rank": "Blue"}], "photo": "20241216-taylorblue.jpg"},
-{"date": "2024-12-23T00:00:00.000", "promotions": [{"name": "Erik Lystad", "rank": "Brown"}], "photo": "20241223-erikbrown.jpg"}
+{"date": "2024-12-23T00:00:00.000", "promotions": [{"name": "Erik Lystad", "rank": "Brown"}], "photo": "20241223-erikbrown.jpg"},
+{"date": "2024-12-27T00:00:00.000", "promotions": [{"name": "Bryant Holt", "rank": "Blue"}], "photo": "20241227-bryantblue.jpg"}
 ]
