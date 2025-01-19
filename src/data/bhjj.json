@@ -348,5 +348,9 @@
 {"date": "2024-12-07T00:00:00.000", "promotions": [{"name": "Daren Roberts", "rank": "Black Belt Second Degree"}], "photo": "20241207-daren2nd.jpg"},
 {"date": "2024-12-16T00:00:00.000", "promotions": [{"name": "Taylor Jackson", "rank": "Blue"}], "photo": "20241216-taylorblue.jpg"},
 {"date": "2024-12-23T00:00:00.000", "promotions": [{"name": "Erik Lystad", "rank": "Brown"}], "photo": "20241223-erikbrown.jpg"},
-{"date": "2024-12-27T00:00:00.000", "promotions": [{"name": "Bryant Holt", "rank": "Blue"}], "photo": "20241227-bryantblue.jpg"}
+{"date": "2024-12-27T00:00:00.000", "promotions": [{"name": "Bryant Holt", "rank": "Blue"}], "photo": "20241227-bryantblue.jpg"},
+{"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Sam Ross", "rank": "Black"}], "photo": "20250118-samblack.jpg"},
+{"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Matt Shand", "rank": "Black"}], "photo": "20250118-mattblack.jpg"},
+{"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Marc Gebeily", "rank": "Black"}], "photo": "20250118-marcblack.jpg"},
+{"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Joe Vo", "rank": "Black"}], "photo": "20250118-joeblack.jpg"}
 ]
