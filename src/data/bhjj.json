@@ -352,5 +352,6 @@
 {"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Sam Ross", "rank": "Black"}], "photo": "20250118-samblack.jpg"},
 {"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Matt Shand", "rank": "Black"}], "photo": "20250118-mattblack.jpg"},
 {"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Marc Gebeily", "rank": "Black"}], "photo": "20250118-marcblack.jpg"},
-{"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Joe Vo", "rank": "Black"}], "photo": "20250118-joeblack.jpg"}
+{"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Joe Vo", "rank": "Black"}], "photo": "20250118-joeblack.jpg"},
+{"date": "2025-01-29T00:00:00.000", "promotions": [{"name": "Jake Fushimi", "rank": "Blue"}], "photo": "20250129-jakeblue.jpg"}
 ]
