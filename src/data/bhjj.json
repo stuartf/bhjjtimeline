@@ -297,6 +297,7 @@
 {"date": "2023-06-05T00:00:00.000", "promotions": [{"name": "Michael Wigal", "rank": "Purple"}, {"name": "Justin Johnson", "rank": "Purple"}], "photo": "20230605-michaeljjpurple.jpg"},
 {"date": "2023-06-27T00:00:00.000", "promotions": [{"name": "Trent Watkins", "rank": "Blue"}], "photo": "20230627-trentblue.jpg"},
 {"date": "2023-07-10T00:00:00.000", "promotions": [{"name": "Chase Duncan", "rank": "Join"}], "photo": "20230710-chasejoin.jpg"},
+{"date": "2023-08-05T00:00:00.000", "promotions": [{"name": "John Blasco", "rank": "Join"}], "photo": "20230805-johnjoin.jpg"},
 {"date": "2023-08-21T00:00:00.000", "promotions": [{"name": "Erik Anderson", "rank": "Blue"}, {"name": "Bjorn Walker", "rank": "Blue"}], "photo": "20230821-erikbjornblue.jpg"},
 {"date": "2023-08-23T00:00:00.000", "promotions": [{"name": "Joe Driscoll", "rank": "Blue"}], "photo": "20230823-joeblue.jpg"},
 {"date": "2023-08-25T00:00:00.000", "promotions": [{"name": "Harold Soper", "rank": "Blue"}], "photo": "20230825-haroldblue.jpg"},
@@ -353,5 +354,6 @@
 {"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Matt Shand", "rank": "Black"}], "photo": "20250118-mattblack.jpg"},
 {"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Marc Gebeily", "rank": "Black"}], "photo": "20250118-marcblack.jpg"},
 {"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Joe Vo", "rank": "Black"}], "photo": "20250118-joeblack.jpg"},
-{"date": "2025-01-29T00:00:00.000", "promotions": [{"name": "Jake Fushimi", "rank": "Blue"}], "photo": "20250129-jakeblue.jpg"}
+{"date": "2025-01-29T00:00:00.000", "promotions": [{"name": "Jake Fushimi", "rank": "Blue"}], "photo": "20250129-jakeblue.jpg"},
+{"date": "2025-02-04T00:00:00.000", "promotions": [{"name": "John Blasco", "rank": "Blue"}], "photo": "20250204-johnblue.jpg"}
 ]
