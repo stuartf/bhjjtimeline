@@ -355,5 +355,6 @@
 {"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Marc Gebeily", "rank": "Black"}], "photo": "20250118-marcblack.jpg"},
 {"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Joe Vo", "rank": "Black"}], "photo": "20250118-joeblack.jpg"},
 {"date": "2025-01-29T00:00:00.000", "promotions": [{"name": "Jake Fushimi", "rank": "Blue"}], "photo": "20250129-jakeblue.jpg"},
-{"date": "2025-02-04T00:00:00.000", "promotions": [{"name": "John Blasco", "rank": "Blue"}], "photo": "20250204-johnblue.jpg"}
+{"date": "2025-02-04T00:00:00.000", "promotions": [{"name": "John Blasco", "rank": "Blue"}], "photo": "20250204-johnblue.jpg"},
+{"date": "2025-02-25T00:00:00.000", "promotions": [{"name": "Kyle Kritz", "rank": "Purple"}], "photo": "20250225-kylepurple.jpg"}
 ]
