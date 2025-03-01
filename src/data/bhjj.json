@@ -258,6 +258,7 @@
 {"date": "2022-07-19T00:00:00.000", "promotions": [{"name": "Robert Walker", "rank": "Blue"}], "photo": "20220719-robertblue.jpg"},
 {"date": "2022-07-20T00:00:00.000", "promotions": [{"name": "Aryeh Mangel", "rank": "Join"}], "photo": "20220720-aryehjoin.jpg"},
 {"date": "2022-07-26T00:00:00.000", "promotions": [{"name": "Roman Merzon", "rank": "Blue"}], "photo": "20220726-romanblue.jpg"},
+{"date": "2022-07-27T00:00:00.000", "promotions": [{"name": "Dov Lipszyc", "rank": "Join"}], "photo": "20220727-dovjoin.jpg"},
 {"date": "2022-08-05T00:00:00.000", "promotions": [{"name": "Brock Clement", "rank": "Blue"}], "photo": "20220805-brockblue.jpg"},
 {"date": "2022-08-10T00:00:00.000", "promotions": [{"name": "Joe Vo", "rank": "Brown"}], "photo": "20220810-joebrown.jpg"},
 {"date": "2022-08-13T00:00:00.000", "promotions": [{"name": "Will Mart", "rank": "Blue"}], "photo": "20220813-willjoin.jpg"},
@@ -356,5 +357,6 @@
 {"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Joe Vo", "rank": "Black"}], "photo": "20250118-joeblack.jpg"},
 {"date": "2025-01-29T00:00:00.000", "promotions": [{"name": "Jake Fushimi", "rank": "Blue"}], "photo": "20250129-jakeblue.jpg"},
 {"date": "2025-02-04T00:00:00.000", "promotions": [{"name": "John Blasco", "rank": "Blue"}], "photo": "20250204-johnblue.jpg"},
-{"date": "2025-02-25T00:00:00.000", "promotions": [{"name": "Kyle Kritz", "rank": "Purple"}], "photo": "20250225-kylepurple.jpg"}
+{"date": "2025-02-25T00:00:00.000", "promotions": [{"name": "Kyle Kritz", "rank": "Purple"}], "photo": "20250225-kylepurple.jpg"},
+{"date": "2025-02-28T00:00:00.000", "promotions": [{"name": "Dov Lipszyc", "rank": "Blue"}], "photo": "20250228-dovblue.jpg"}
 ]
