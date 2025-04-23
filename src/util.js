@@ -3,7 +3,7 @@ const getColor = (color) => {
     case 'Blue':
       return '#87CEFA';
     case 'Purple':
-      return '#663399';
+      return '#8866DD';
     case 'Brown':
       return '#A0522D';
     case 'Black':
@@ -70,14 +70,20 @@ const normalizeRank = (rank) => {
   return rank;
 };
 
-const countBelts = (data) =>
-  Object.entries(
+const countBelts = (data) => {
+  const seenBBs = new Set();
+  return Object.entries(
       data
           .map((datum) =>
-            datum.promotions.reduce((acc, {rank}) => {
+            datum.promotions.reduce((acc, {name, rank}) => {
               rank = normalizeRank(rank);
-              if (rank !== 'Join') {
-            acc[rank] ? (acc[rank] += 1) : (acc[rank] = 1);
+              if (!seenBBs.has(name)) {
+                if (rank === 'Black') {
+                  seenBBs.add(name);
+                }
+                if (rank !== 'Join') {
+                  acc[rank] ? (acc[rank] += 1) : (acc[rank] = 1);
+                }
               }
               return acc;
             }, {}),
@@ -95,6 +101,7 @@ const countBelts = (data) =>
         color: getColor(title),
       }))
       .sort((a, b) => getRankOrder(a.title) - getRankOrder(b.title));
+};
 
 const getNamesByRank = (data) =>
   Object.entries(

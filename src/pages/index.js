@@ -101,7 +101,12 @@ export default function Home() {
         <PieChart
           data={beltCount}
           label={({dataEntry}) => dataEntry.value > 5 ? dataEntry.value: null}
-          labelStyle={{fontFamily: 'Open Sans, sans-serif', fontSize: '10px'}}
+          labelStyle={(idx) => ({
+            fontFamily: 'Open Sans, sans-serif',
+            fontSize: '10px',
+            fill: idx===5 ? '#555555' : '#222222',
+          })
+          }
           paddingAngle={2}
           labelPosition={75}
           lineWidth={50}
