@@ -308,6 +308,7 @@
 {"date": "2023-09-09T00:00:00.000", "promotions": [{"name": "Matt DeLeon", "rank": "Black"}], "photo": "20230909-mattblack.jpg"},
 {"date": "2023-09-09T00:00:00.000", "promotions": [{"name": "Kennith Jackson", "rank": "Black"}], "photo": "20230909-kennithblack.jpg"},
 {"date": "2023-09-16T00:00:00.000", "promotions": [{"name": "Mark Shields", "rank": "Brown"}], "photo": "20230916-markbrown.jpg"},
+{"date": "2023-11-01T00:00:00.000", "promotions": [{"name": "Treva Winlock", "rank": "Join"}], "photo": "20231101-trevajoin.jpg"},
 {"date": "2023-11-07T00:00:00.000", "promotions": [{"name": "Kayl Thomas", "rank": "Blue"}, {"name": "Joe Lombardo", "rank": "Purple"}], "photo": "20231107-kaylbluejoepurple.jpg"},
 {"date": "2023-11-21T00:00:00.000", "promotions": [{"name": "Ethan Arbiser", "rank": "Purple"}], "photo": "20231121-ethanpurple.jpg"},
 {"date": "2023-11-28T00:00:00.000", "promotions": [{"name": "Brenton Boyd", "rank": "Blue"}], "photo": "20231128-brentonblue.jpg"},
@@ -335,6 +336,7 @@
 {"date": "2024-06-25T00:00:00.000", "promotions": [{"name": "John Dyer", "rank": "Purple"}], "photo": "20240625-johnpurple.jpg"},
 {"date": "2024-06-28T00:00:00.000", "promotions": [{"name": "Allison Jacobs", "rank": "Brown"}], "photo": "20240628-allisonbrown.jpg"},
 {"date": "2024-07-01T00:00:00.000", "promotions": [{"name": "Matthew Scafidi", "rank": "Brown"}], "photo": "20240701-mattbrown.jpg"},
+{"date": "2024-07-02T00:00:00.000", "promotions": [{"name": "Shawn Quaid", "rank": "Join"}], "photo": "20240702-shawnjoin.jpg"},
 {"date": "2024-08-14T00:00:00.000", "promotions": [{"name": "Jake Whelan", "rank": "Blue"}], "photo": "20240814-jakeblue.jpg"},
 {"date": "2024-08-19T00:00:00.000", "promotions": [{"name": "Gabriel Mieles", "rank": "Blue"}], "photo": "20240819-gabrielblue.jpg"},
 {"date": "2024-08-24T00:00:00.000", "promotions": [{"name": "Fernando Puerto", "rank": "Black"}], "photo": "20240824-fernandoblack.jpg"},
@@ -360,5 +362,6 @@
 {"date": "2025-02-04T00:00:00.000", "promotions": [{"name": "John Blasco", "rank": "Blue"}], "photo": "20250204-johnblue.jpg"},
 {"date": "2025-02-25T00:00:00.000", "promotions": [{"name": "Kyle Kritz", "rank": "Purple"}], "photo": "20250225-kylepurple.jpg"},
 {"date": "2025-02-28T00:00:00.000", "promotions": [{"name": "Dov Lipszyc", "rank": "Blue"}], "photo": "20250228-dovblue.jpg"},
-{"date": "2025-03-17T00:00:00.000", "promotions": [{"name": "Hunter Rich", "rank": "Blue"}], "photo": "20250317-hunterblue.jpg"}
+{"date": "2025-03-17T00:00:00.000", "promotions": [{"name": "Hunter Rich", "rank": "Blue"}], "photo": "20250317-hunterblue.jpg"},
+{"date": "2025-04-22T00:00:00.000", "promotions": [{"name": "Treva Winlock", "rank": "Blue"},{"name": "Shawn Quaid", "rank": "Blue"}], "photo": "20250422-trevashawnblue.jpg"}
 ]
