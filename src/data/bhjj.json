@@ -365,5 +365,6 @@
 {"date": "2025-03-17T00:00:00.000", "promotions": [{"name": "Hunter Rich", "rank": "Blue"}], "photo": "20250317-hunterblue.jpg"},
 {"date": "2025-04-22T00:00:00.000", "promotions": [{"name": "Treva Winlock", "rank": "Blue"},{"name": "Shawn Quaid", "rank": "Blue"}], "photo": "20250422-trevashawnblue.jpg"},
 {"date": "2025-04-24T00:00:00.000", "promotions": [{"name": "Dock Davis", "rank": "Purple"}], "photo": "20250424-dockpurple.jpg"},
-{"date": "2025-04-26T00:00:00.000", "promotions": [{"name": "Michael Adesso", "rank": "Brown"}], "photo": "20250426-michaelbrown.jpg"}
+{"date": "2025-04-26T00:00:00.000", "promotions": [{"name": "Michael Adesso", "rank": "Brown"}], "photo": "20250426-michaelbrown.jpg"},
+{"date": "2025-05-02T00:00:00.000", "promotions": [{"name": "Erik O'Brien", "rank": "Purple"}], "photo": "20250502-erikpurple.jpg"}
 ]
