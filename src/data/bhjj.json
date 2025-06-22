@@ -369,5 +369,7 @@
 {"date": "2025-04-26T00:00:00.000", "promotions": [{"name": "Michael Adesso", "rank": "Brown"}], "photo": "20250426-michaelbrown.jpg"},
 {"date": "2025-05-02T00:00:00.000", "promotions": [{"name": "Erik O'Brien", "rank": "Purple"}], "photo": "20250502-erikpurple.jpg"},
 {"date": "2025-05-22T00:00:00.000", "promotions": [{"name": "Daniel Jacobs", "rank": "Blue"}], "photo": "20250522-danielblue.jpg"},
-{"date": "2025-06-05T00:00:00.000", "promotions": [{"name": "Adam Chechila", "rank": "Brown"}], "photo": "20250605-adambrown.jpg"}
+{"date": "2025-06-05T00:00:00.000", "promotions": [{"name": "Adam Chechila", "rank": "Brown"}], "photo": "20250605-adambrown.jpg"},
+{"date": "2025-06-21T00:00:00.000", "promotions": [{"name": "Mark Estrada", "rank": "Black"}], "photo": "20250621-markblack.jpg"},
+{"date": "2025-06-21T00:00:00.000", "promotions": [{"name": "Michael Leamy", "rank": "Black"}], "photo": "20250621-mikeblack.jpg"}
 ]
