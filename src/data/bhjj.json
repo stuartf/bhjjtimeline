@@ -290,6 +290,7 @@
 {"date": "2023-02-04T00:00:00.000", "promotions": [{"name": "Daniel Jacobs", "rank": "Join"}], "photo": "20230204-danieljoin.jpg"},
 {"date": "2023-02-14T00:00:00.000", "promotions": [{"name": "Clifton Dunford", "rank": "Blue"}], "photo": "20230214-cliftonblue.jpg"},
 {"date": "2023-03-03T00:00:00.000", "promotions": [{"name": "Frank Wilson", "rank": "Join"}], "photo": "20230303-frankjoin.jpg"},
+{"date": "2023-04-13T00:00:00.000", "promotions": [{"name": "Nihal Punjani", "rank": "Join"}], "photo": "20230413-nihaljoin.jpg"},
 {"date": "2023-04-27T00:00:00.000", "promotions": [{"name": "Jan Lystad", "rank": "Blue"}], "photo": "20230427-janblue.jpg"},
 {"date": "2023-05-02T00:00:00.000", "promotions": [{"name": "Will Buchly", "rank": "Blue"}], "photo": "20230502-willblue.jpg"},
 {"date": "2023-05-04T00:00:00.000", "promotions": [{"name": "Thomas Pietruszewski", "rank": "Purple"}], "photo": "20230504-thomaspurple.jpg"},
@@ -371,5 +372,6 @@
 {"date": "2025-05-22T00:00:00.000", "promotions": [{"name": "Daniel Jacobs", "rank": "Blue"}], "photo": "20250522-danielblue.jpg"},
 {"date": "2025-06-05T00:00:00.000", "promotions": [{"name": "Adam Chechila", "rank": "Brown"}], "photo": "20250605-adambrown.jpg"},
 {"date": "2025-06-21T00:00:00.000", "promotions": [{"name": "Mark Estrada", "rank": "Black"}], "photo": "20250621-markblack.jpg"},
-{"date": "2025-06-21T00:00:00.000", "promotions": [{"name": "Michael Leamy", "rank": "Black"}], "photo": "20250621-mikeblack.jpg"}
+{"date": "2025-06-21T00:00:00.000", "promotions": [{"name": "Michael Leamy", "rank": "Black"}], "photo": "20250621-mikeblack.jpg"},
+{"date": "2025-07-23T00:00:00.000", "promotions": [{"name": "Nihal Punjani", "rank": "Brown"}], "photo": "20250723-nihalbrown.jpg"}
 ]
