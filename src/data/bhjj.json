@@ -376,5 +376,6 @@
 {"date": "2025-06-21T00:00:00.000", "promotions": [{"name": "Michael Leamy", "rank": "Black"}], "photo": "20250621-mikeblack.jpg"},
 {"date": "2025-07-23T00:00:00.000", "promotions": [{"name": "Nihal Punjani", "rank": "Brown"}], "photo": "20250723-nihalbrown.jpg"},
 {"date": "2025-07-30T00:00:00.000", "promotions": [{"name": "Zach Mahl", "rank": "Purple"}], "photo": "20250730-zachpurple.jpg"},
-{"date": "2025-08-05T00:00:00.000", "promotions": [{"name": "Joel Blasco", "rank": "Blue"}], "photo": "20250805-joelblue.jpg"}
+{"date": "2025-08-05T00:00:00.000", "promotions": [{"name": "Joel Blasco", "rank": "Blue"}], "photo": "20250805-joelblue.jpg"},
+{"date": "2025-08-12T00:00:00.000", "promotions": [{"name": "Darion Carter", "rank": "Purple"}], "photo": "20250812-darionpurple.jpg"}
 ]
