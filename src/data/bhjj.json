@@ -298,6 +298,7 @@
 {"date": "2023-05-17T00:00:00.000", "promotions": [{"name": "Thomas Flowers", "rank": "Blue"}], "photo": "20230517-thomasblue.jpg"},
 {"date": "2023-06-01T00:00:00.000", "promotions": [{"name": "Bryant Holt", "rank": "Join"}], "photo": "20230601-bryantjoin.jpg"},
 {"date": "2023-06-05T00:00:00.000", "promotions": [{"name": "Michael Wigal", "rank": "Purple"}, {"name": "Justin Johnson", "rank": "Purple"}], "photo": "20230605-michaeljjpurple.jpg"},
+{"date": "2023-06-13T00:00:00.000", "promotions": [{"name": "Mendel Adelman", "rank": "Join"}], "photo": "20230613-mendeljoin.jpg"},
 {"date": "2023-06-27T00:00:00.000", "promotions": [{"name": "Trent Watkins", "rank": "Blue"}], "photo": "20230627-trentblue.jpg"},
 {"date": "2023-07-10T00:00:00.000", "promotions": [{"name": "Chase Duncan", "rank": "Join"}], "photo": "20230710-chasejoin.jpg"},
 {"date": "2023-08-05T00:00:00.000", "promotions": [{"name": "John Blasco", "rank": "Join"}], "photo": "20230805-johnjoin.jpg"},
@@ -377,5 +378,6 @@
 {"date": "2025-07-23T00:00:00.000", "promotions": [{"name": "Nihal Punjani", "rank": "Brown"}], "photo": "20250723-nihalbrown.jpg"},
 {"date": "2025-07-30T00:00:00.000", "promotions": [{"name": "Zach Mahl", "rank": "Purple"}], "photo": "20250730-zachpurple.jpg"},
 {"date": "2025-08-05T00:00:00.000", "promotions": [{"name": "Joel Blasco", "rank": "Blue"}], "photo": "20250805-joelblue.jpg"},
-{"date": "2025-08-12T00:00:00.000", "promotions": [{"name": "Darion Carter", "rank": "Purple"}], "photo": "20250812-darionpurple.jpg"}
+{"date": "2025-08-12T00:00:00.000", "promotions": [{"name": "Darion Carter", "rank": "Purple"}], "photo": "20250812-darionpurple.jpg"},
+{"date": "2025-08-18T00:00:00.000", "promotions": [{"name": "Mendel Adelman", "rank": "Blue"}], "photo": "20250818-mendelblue.jpg"}
 ]
