@@ -313,6 +313,7 @@
 {"date": "2023-09-16T00:00:00.000", "promotions": [{"name": "Mark Shields", "rank": "Brown"}], "photo": "20230916-markbrown.jpg"},
 {"date": "2023-11-01T00:00:00.000", "promotions": [{"name": "Treva Winlock", "rank": "Join"}], "photo": "20231101-trevajoin.jpg"},
 {"date": "2023-11-07T00:00:00.000", "promotions": [{"name": "Kayl Thomas", "rank": "Blue"}, {"name": "Joe Lombardo", "rank": "Purple"}], "photo": "20231107-kaylbluejoepurple.jpg"},
+{"date": "2023-11-07T00:00:00.000", "promotions": [{"name": "Kevin Karem", "rank": "Join"}], "photo": "20231107-kevinjoin.jpg"},
 {"date": "2023-11-21T00:00:00.000", "promotions": [{"name": "Ethan Arbiser", "rank": "Purple"}], "photo": "20231121-ethanpurple.jpg"},
 {"date": "2023-11-28T00:00:00.000", "promotions": [{"name": "Brenton Boyd", "rank": "Blue"}], "photo": "20231128-brentonblue.jpg"},
 {"date": "2023-11-30T00:00:00.000", "promotions": [{"name": "Jonathan Muiznieks", "rank": "Purple"}], "photo": "20231130-jonathanpurple.jpg"},
@@ -379,5 +380,6 @@
 {"date": "2025-07-30T00:00:00.000", "promotions": [{"name": "Zach Mahl", "rank": "Purple"}], "photo": "20250730-zachpurple.jpg"},
 {"date": "2025-08-05T00:00:00.000", "promotions": [{"name": "Joel Blasco", "rank": "Blue"}], "photo": "20250805-joelblue.jpg"},
 {"date": "2025-08-12T00:00:00.000", "promotions": [{"name": "Darion Carter", "rank": "Purple"}], "photo": "20250812-darionpurple.jpg"},
-{"date": "2025-08-18T00:00:00.000", "promotions": [{"name": "Mendel Adelman", "rank": "Blue"}], "photo": "20250818-mendelblue.jpg"}
+{"date": "2025-08-18T00:00:00.000", "promotions": [{"name": "Mendel Adelman", "rank": "Blue"}], "photo": "20250818-mendelblue.jpg"},
+{"date": "2025-09-02T00:00:00.000", "promotions": [{"name": "Kevin Karem", "rank": "Blue"}], "photo": "20250902-kevinblue.jpg"}
 ]
