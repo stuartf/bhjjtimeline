@@ -392,5 +392,6 @@
 {"date": "2025-09-16T00:00:00.000", "promotions": [{"name": "Brandon Wharton", "rank": "Brown"}, {"name": "Paul Dudley", "rank": "Blue"}], "photo": "20250916-brandonbrownpaulblue.jpg"},
 {"date": "2025-09-24T00:00:00.000", "promotions": [{"name": "Clifton Dunford", "rank": "Purple"}], "photo": "20250924-cliftonpurple.jpg"},
 {"date": "2025-12-06T00:00:00.000", "promotions": [{"name": "Emmanuel Donate", "rank": "Black Belt First Degree"}], "photo": "20251206-emmanuelbb1.jpg"},
-{"date": "2025-12-06T00:00:00.000", "promotions": [{"name": "Jan Lystad", "rank": "Purple"}], "photo": "20251206-janpurple.jpg"}
+{"date": "2025-12-06T00:00:00.000", "promotions": [{"name": "Jan Lystad", "rank": "Purple"}], "photo": "20251206-janpurple.jpg"},
+{"date": "2025-12-27T00:00:00.000", "promotions": [{"name": "Geoff Dalton", "rank": "Brown"}], "photo": "20251227-geoffbrown.jpg"}
 ]
