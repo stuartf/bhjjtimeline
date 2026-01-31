@@ -399,5 +399,6 @@
 {"date": "2026-01-08T00:00:00.000", "promotions": [{"name": "Joe Lombardo", "rank": "Brown"}], "photo": "20260108-joebrown.jpg"},
 {"date": "2026-01-10T00:00:00.000", "promotions": [{"name": "Whit Lanier", "rank": "Black Belt First Degree"}], "photo": "20260110-whitbb1.jpg"},
 {"date": "2026-01-10T00:00:00.000", "promotions": [{"name": "Brian Little", "rank": "Purple"}], "photo": "20260110-brianpurple.jpg"},
-{"date": "2026-01-17T00:00:00.000", "promotions": [{"name": "Taylor Reed", "rank": "Black Belt First Degree"}], "photo": "20260117-taylorbb1.jpg"}
+{"date": "2026-01-17T00:00:00.000", "promotions": [{"name": "Taylor Reed", "rank": "Black Belt First Degree"}], "photo": "20260117-taylorbb1.jpg"},
+{"date": "2026-01-30T00:00:00.000", "promotions": [{"name": "Brenton Boyd", "rank": "Purple"},{"name": "Andrew Reeves", "rank": "Purple"}], "photo": "20260130-brentonandrewpurple.jpg"}
 ]
