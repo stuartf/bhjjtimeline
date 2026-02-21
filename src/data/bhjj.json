@@ -226,6 +226,7 @@
 {"date": "2021-07-19T00:00:00.000", "promotions": [{"name": "Matthew Scafidi", "rank": "Purple"}, {"name": "Allison Jacobs", "rank": "Purple"}], "photo": "20210719-mattallisonpurple.jpg"},
 {"date": "2021-07-31T00:00:00.000", "promotions": [{"name": "Robert Walker", "rank": "Join"}, {"name": "Jan Lystad", "rank": "Join"}], "photo": "20210731-robertjoin.jpg"},
 {"date": "2021-08-03T00:00:00.000", "promotions": [{"name": "Matthew Rubenstein", "rank": "Brown"}], "photo": "20210803-mattbrown.jpg"},
+{"date": "2021-08-21T00:00:00.000", "promotions": [{"name": "Will Buchly", "rank": "Join"}], "photo": "20210821-willjoin.jpg"},
 {"date": "2021-08-24T00:00:00.000", "promotions": [{"name": "Neisa Yin", "rank": "Join"}], "photo": "20210824-neisajoin.jpg"},
 {"date": "2021-09-10T00:00:00.000", "promotions": [{"name": "Geoff Dalton", "rank": "Blue"}, {"name": "Rachael Pejinsky", "rank": "Blue"}], "photo": "20210910-geoffrachaelblue.jpg"},
 {"date": "2021-09-22T00:00:00.000", "promotions": [{"name": "Fernando Puerto", "rank": "Brown"}], "photo": "20210922-fernandobrown.jpg"},
@@ -402,5 +403,6 @@
 {"date": "2026-01-10T00:00:00.000", "promotions": [{"name": "Brian Little", "rank": "Purple"}], "photo": "20260110-brianpurple.jpg"},
 {"date": "2026-01-17T00:00:00.000", "promotions": [{"name": "Taylor Reed", "rank": "Black Belt First Degree"}], "photo": "20260117-taylorbb1.jpg"},
 {"date": "2026-01-30T00:00:00.000", "promotions": [{"name": "Brenton Boyd", "rank": "Purple"},{"name": "Andrew Reeves", "rank": "Purple"}], "photo": "20260130-brentonandrewpurple.jpg"},
-{"date": "2026-02-18T00:00:00.000", "promotions": [{"name": "Keith Horne II", "rank": "Blue"}], "photo": "20260218-keithblue.jpg"}
+{"date": "2026-02-18T00:00:00.000", "promotions": [{"name": "Keith Horne II", "rank": "Blue"}], "photo": "20260218-keithblue.jpg"},
+{"date": "2026-02-21T00:00:00.000", "promotions": [{"name": "Will Buchly", "rank": "Purple"}], "photo": "20260221-willpurple.jpg"}
 ]
