@@ -404,5 +404,6 @@
 {"date": "2026-01-17T00:00:00.000", "promotions": [{"name": "Taylor Reed", "rank": "Black Belt First Degree"}], "photo": "20260117-taylorbb1.jpg"},
 {"date": "2026-01-30T00:00:00.000", "promotions": [{"name": "Brenton Boyd", "rank": "Purple"},{"name": "Andrew Reeves", "rank": "Purple"}], "photo": "20260130-brentonandrewpurple.jpg"},
 {"date": "2026-02-18T00:00:00.000", "promotions": [{"name": "Keith Horne II", "rank": "Blue"}], "photo": "20260218-keithblue.jpg"},
-{"date": "2026-02-21T00:00:00.000", "promotions": [{"name": "Will Buchly", "rank": "Purple"}], "photo": "20260221-willpurple.jpg"}
+{"date": "2026-02-21T00:00:00.000", "promotions": [{"name": "Will Buchly", "rank": "Purple"}], "photo": "20260221-willpurple.jpg"},
+{"date": "2026-03-03T00:00:00.000", "promotions": [{"name": "Erik Anderson", "rank": "Purple"}], "photo": "20260303-erikpurple.jpg"}
 ]
