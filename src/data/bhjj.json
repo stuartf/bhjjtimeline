@@ -297,6 +297,7 @@
 {"date": "2023-05-04T00:00:00.000", "promotions": [{"name": "Thomas Pietruszewski", "rank": "Purple"}], "photo": "20230504-thomaspurple.jpg"},
 {"date": "2023-05-12T00:00:00.000", "promotions": [{"name": "Taylor Jackson", "rank": "Join"}], "photo": "20230512-taylorjoin.jpg"},
 {"date": "2023-05-17T00:00:00.000", "promotions": [{"name": "Thomas Flowers", "rank": "Blue"}], "photo": "20230517-thomasblue.jpg"},
+{"date": "2023-05-30T00:00:00.000", "promotions": [{"name": "David Hevesi", "rank": "Join"}], "photo": "20230530-davidjoin.jpg"},
 {"date": "2023-06-01T00:00:00.000", "promotions": [{"name": "Bryant Holt", "rank": "Join"}], "photo": "20230601-bryantjoin.jpg"},
 {"date": "2023-06-05T00:00:00.000", "promotions": [{"name": "Michael Wigal", "rank": "Purple"}, {"name": "Justin Johnson", "rank": "Purple"}], "photo": "20230605-michaeljjpurple.jpg"},
 {"date": "2023-06-13T00:00:00.000", "promotions": [{"name": "Mendel Adelman", "rank": "Join"}], "photo": "20230613-mendeljoin.jpg"},
@@ -405,5 +406,6 @@
 {"date": "2026-01-30T00:00:00.000", "promotions": [{"name": "Brenton Boyd", "rank": "Purple"},{"name": "Andrew Reeves", "rank": "Purple"}], "photo": "20260130-brentonandrewpurple.jpg"},
 {"date": "2026-02-18T00:00:00.000", "promotions": [{"name": "Keith Horne II", "rank": "Blue"}], "photo": "20260218-keithblue.jpg"},
 {"date": "2026-02-21T00:00:00.000", "promotions": [{"name": "Will Buchly", "rank": "Purple"}], "photo": "20260221-willpurple.jpg"},
-{"date": "2026-03-03T00:00:00.000", "promotions": [{"name": "Erik Anderson", "rank": "Purple"}], "photo": "20260303-erikpurple.jpg"}
+{"date": "2026-03-03T00:00:00.000", "promotions": [{"name": "Erik Anderson", "rank": "Purple"}], "photo": "20260303-erikpurple.jpg"},
+{"date": "2026-03-09T00:00:00.000", "promotions": [{"name": "David Hevesi", "rank": "Blue"}], "photo": "20260309-davidblue.jpg"}
 ]
