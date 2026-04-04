@@ -407,5 +407,6 @@
 {"date": "2026-02-18T00:00:00.000", "promotions": [{"name": "Keith Horne II", "rank": "Blue"}], "photo": "20260218-keithblue.jpg"},
 {"date": "2026-02-21T00:00:00.000", "promotions": [{"name": "Will Buchly", "rank": "Purple"}], "photo": "20260221-willpurple.jpg"},
 {"date": "2026-03-03T00:00:00.000", "promotions": [{"name": "Erik Anderson", "rank": "Purple"}], "photo": "20260303-erikpurple.jpg"},
-{"date": "2026-03-09T00:00:00.000", "promotions": [{"name": "David Hevesi", "rank": "Blue"}], "photo": "20260309-davidblue.jpg"}
+{"date": "2026-03-09T00:00:00.000", "promotions": [{"name": "David Hevesi", "rank": "Blue"}], "photo": "20260309-davidblue.jpg"},
+{"date": "2026-04-02T00:00:00.000", "promotions": [{"name": "TR Adams", "rank": "Purple"}], "photo": "20260402-trpurple.jpg"}
 ]
