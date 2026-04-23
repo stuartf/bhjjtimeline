@@ -354,7 +354,7 @@
 {"date": "2024-08-24T00:00:00.000", "promotions": [{"name": "Eduardo Galvao", "rank": "Black"}], "photo": "20240824-eduardoblack.jpg"},
 {"date": "2024-08-24T00:00:00.000", "promotions": [{"name": "Greg Zabinski", "rank": "Black"}], "photo": "20240824-gregblack.jpg"},
 {"date": "2024-08-26T00:00:00.000", "promotions": [{"name": "Justin Webster", "rank": "Brown"}], "photo": "20240826-justinbrown.jpg"},
-{"date": "2024-09-04T00:00:00.000", "promotions": [{"name": "Kieth Horne II", "rank": "Join"}], "photo": "20240904-keithjoin.jpg"},
+{"date": "2024-09-04T00:00:00.000", "promotions": [{"name": "Kieth Horne II", "rank": "Join"}, {"name": "Alec Balandin", "rank": "Join"}], "photo": "20240904-keithjoin.jpg"},
 {"date": "2024-09-12T00:00:00.000", "promotions": [{"name": "John Meskill", "rank": "Purple"}], "photo": "20240912-johnpurple.jpg"},
 {"date": "2024-09-17T00:00:00.000", "promotions": [{"name": "Annie Corriveau", "rank": "Purple"}], "photo": "20240917-anniepurple.jpg"},
 {"date": "2024-09-30T00:00:00.000", "promotions": [{"name": "John Simon", "rank": "Purple"}], "photo": "20240930-johnpurple.jpg"},
@@ -409,5 +409,6 @@
 {"date": "2026-03-03T00:00:00.000", "promotions": [{"name": "Erik Anderson", "rank": "Purple"}], "photo": "20260303-erikpurple.jpg"},
 {"date": "2026-03-09T00:00:00.000", "promotions": [{"name": "David Hevesi", "rank": "Blue"}], "photo": "20260309-davidblue.jpg"},
 {"date": "2026-04-02T00:00:00.000", "promotions": [{"name": "TR Adams", "rank": "Purple"}], "photo": "20260402-trpurple.jpg"},
-{"date": "2026-04-09T00:00:00.000", "promotions": [{"name": "John Dusel", "rank": "Blue"}], "photo": "20260409-johnblue.jpg"}
+{"date": "2026-04-09T00:00:00.000", "promotions": [{"name": "John Dusel", "rank": "Blue"}], "photo": "20260409-johnblue.jpg"},
+{"date": "2026-04-22T00:00:00.000", "promotions": [{"name": "Alec Balandin", "rank": "Blue"}], "photo": "20260422-alecblue.jpg"}
 ]
