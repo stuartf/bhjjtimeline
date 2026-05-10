@@ -371,6 +371,7 @@
 {"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Matt Shand", "rank": "Black"}], "photo": "20250118-mattblack.jpg"},
 {"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Marc Gebeily", "rank": "Black"}], "photo": "20250118-marcblack.jpg"},
 {"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Joe Vo", "rank": "Black"}], "photo": "20250118-joeblack.jpg"},
+{"date": "2025-01-25T00:00:00.000", "promotions": [{"name": "Joe Donato", "rank": "Join"}], "photo": "20250125-joejoin.jpg"},
 {"date": "2025-01-29T00:00:00.000", "promotions": [{"name": "Jake Fushimi", "rank": "Blue"}], "photo": "20250129-jakeblue.jpg"},
 {"date": "2025-02-04T00:00:00.000", "promotions": [{"name": "John Blasco", "rank": "Blue"}], "photo": "20250204-johnblue.jpg"},
 {"date": "2025-02-25T00:00:00.000", "promotions": [{"name": "Kyle Kritz", "rank": "Purple"}], "photo": "20250225-kylepurple.jpg"},
@@ -411,5 +412,6 @@
 {"date": "2026-04-02T00:00:00.000", "promotions": [{"name": "TR Adams", "rank": "Purple"}], "photo": "20260402-trpurple.jpg"},
 {"date": "2026-04-09T00:00:00.000", "promotions": [{"name": "John Dusel", "rank": "Blue"}], "photo": "20260409-johnblue.jpg"},
 {"date": "2026-04-22T00:00:00.000", "promotions": [{"name": "Alec Balandin", "rank": "Blue"}], "photo": "20260422-alecblue.jpg"},
-{"date": "2026-05-05T00:00:00.000", "promotions": [{"name": "Justin Johnson", "rank": "Brown"}], "photo": "20260505-jjbrown.jpg"}
+{"date": "2026-05-05T00:00:00.000", "promotions": [{"name": "Justin Johnson", "rank": "Brown"}], "photo": "20260505-jjbrown.jpg"},
+{"date": "2026-05-09T00:00:00.000", "promotions": [{"name": "Joe Donato", "rank": "Blue"}], "photo": "20260509-joeblue.jpg"}
 ]
