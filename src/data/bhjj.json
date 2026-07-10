@@ -412,6 +412,7 @@
 {"date": "2026-03-03T00:00:00.000", "promotions": [{"name": "Erik Anderson", "rank": "Purple"}], "photo": "20260303-erikpurple.jpg"},
 {"date": "2026-03-09T00:00:00.000", "promotions": [{"name": "David Hevesi", "rank": "Blue"}], "photo": "20260309-davidblue.jpg"},
 {"date": "2026-04-02T00:00:00.000", "promotions": [{"name": "TR Adams", "rank": "Purple"}], "photo": "20260402-trpurple.jpg"},
+{"date": "2026-04-08T00:00:00.000", "promotions": [{"name": "Miguel Garcia", "rank": "Join"}], "photo": "20260408-migueljoin.jpg"},
 {"date": "2026-04-09T00:00:00.000", "promotions": [{"name": "John Dusel", "rank": "Blue"}], "photo": "20260409-johnblue.jpg"},
 {"date": "2026-04-22T00:00:00.000", "promotions": [{"name": "Alec Balandin", "rank": "Blue"}], "photo": "20260422-alecblue.jpg"},
 {"date": "2026-05-05T00:00:00.000", "promotions": [{"name": "Justin Johnson", "rank": "Brown"}], "photo": "20260505-jjbrown.jpg"},
@@ -419,5 +420,6 @@
 {"date": "2026-05-21T00:00:00.000", "promotions": [{"name": "Misha Andra-Thomas", "rank": "Blue"}], "photo": "20260521-mishablue.jpg"},
 {"date": "2026-06-02T00:00:00.000", "promotions": [{"name": "Bob Dekle", "rank": "Purple"}], "photo": "20260602-bobpurple.jpg"},
 {"date": "2026-06-13T00:00:00.000", "promotions": [{"name": "Andrew Dekle", "rank": "Blue"}], "photo": "20260613-andrewblue.jpg"},
-{"date": "2026-06-17T00:00:00.000", "promotions": [{"name": "Jacobs Ellerhorst", "rank": "Blue"}], "photo": "20260617-jacobsblue.jpg"}
+{"date": "2026-06-17T00:00:00.000", "promotions": [{"name": "Jacobs Ellerhorst", "rank": "Blue"}], "photo": "20260617-jacobsblue.jpg"},
+{"date": "2026-07-06T00:00:00.000", "promotions": [{"name": "Miguel Garcia", "rank": "Blue"}], "photo": "20260706-miguelblue.jpg"}
 ]
