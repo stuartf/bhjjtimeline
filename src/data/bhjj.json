@@ -332,6 +332,7 @@
 {"date": "2024-01-27T00:00:00.000", "promotions": [{"name": "Hunter Rich", "rank": "Join"}], "photo": "20240127-hunterjoin.jpg"},
 {"date": "2024-01-29T00:00:00.000", "promotions": [{"name": "Hux Riddle", "rank": "Blue"}], "photo": "20240129-huxblue.jpg"},
 {"date": "2024-02-24T00:00:00.000", "promotions": [{"name": "Joel Blasco", "rank": "Join"}], "photo": "20240224-joeljoin.jpg"},
+{"date": "2024-03-12T00:00:00.000", "promotions": [{"name": "Marc Bosworth", "rank": "Join"}], "photo": "20240312-marcjoin.jpg"},
 {"date": "2024-04-01T00:00:00.000", "promotions": [{"name": "Autumn Brown", "rank": "Blue"}], "photo": "20240401-autumnblue.jpg"},
 {"date": "2024-04-03T00:00:00.000", "promotions": [{"name": "Aryeh Mangel", "rank": "Blue"}], "photo": "20240403-aryehblue.jpg"},
 {"date": "2024-04-24T00:00:00.000", "promotions": [{"name": "Randy Wright", "rank": "Purple"}], "photo": "20240424-randypurple.jpg"},
@@ -421,5 +422,6 @@
 {"date": "2026-06-02T00:00:00.000", "promotions": [{"name": "Bob Dekle", "rank": "Purple"}], "photo": "20260602-bobpurple.jpg"},
 {"date": "2026-06-13T00:00:00.000", "promotions": [{"name": "Andrew Dekle", "rank": "Blue"}], "photo": "20260613-andrewblue.jpg"},
 {"date": "2026-06-17T00:00:00.000", "promotions": [{"name": "Jacobs Ellerhorst", "rank": "Blue"}], "photo": "20260617-jacobsblue.jpg"},
-{"date": "2026-07-06T00:00:00.000", "promotions": [{"name": "Miguel Garcia", "rank": "Blue"}], "photo": "20260706-miguelblue.jpg"}
+{"date": "2026-07-06T00:00:00.000", "promotions": [{"name": "Miguel Garcia", "rank": "Blue"}], "photo": "20260706-miguelblue.jpg"},
+{"date": "2026-07-11T00:00:00.000", "promotions": [{"name": "Marc Bosworth", "rank": "Brown"}], "photo": "20260711-marcbrown.jpg"}
 ]
