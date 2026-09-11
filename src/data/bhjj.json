@@ -364,6 +364,7 @@
 {"date": "2024-10-04T00:00:00.000", "promotions": [{"name": "Misha Andra-Thomas", "rank": "Join"}], "photo": "20241004-mishajoin.jpg"},
 {"date": "2024-10-05T00:00:00.000", "promotions": [{"name": "Kenneth Yeung", "rank": "Black Belt Second Degree"}], "photo": "20241005-kenneth2nd.jpg"},
 {"date": "2024-10-19T00:00:00.000", "promotions": [{"name": "Jensen Kaivani", "rank": "Blue"}], "photo": "20241019-jensenblue.jpg"},
+{"date": "2024-11-15T00:00:00.000", "promotions": [{"name": "Andrew Chew", "rank": "Join"}], "photo": "20241115-andrewjoin.jpg"},
 {"date": "2024-12-03T00:00:00.000", "promotions": [{"name": "Chase Duncan", "rank": "Blue"}], "photo": "20241203-chaseblue.jpg"},
 {"date": "2024-12-07T00:00:00.000", "promotions": [{"name": "Daren Roberts", "rank": "Black Belt Second Degree"}], "photo": "20241207-daren2nd.jpg"},
 {"date": "2024-12-16T00:00:00.000", "promotions": [{"name": "Taylor Jackson", "rank": "Blue"}], "photo": "20241216-taylorblue.jpg"},
@@ -425,5 +426,6 @@
 {"date": "2026-06-17T00:00:00.000", "promotions": [{"name": "Jacobs Ellerhorst", "rank": "Blue"}], "photo": "20260617-jacobsblue.jpg"},
 {"date": "2026-07-06T00:00:00.000", "promotions": [{"name": "Miguel Garcia", "rank": "Blue"}], "photo": "20260706-miguelblue.jpg"},
 {"date": "2026-07-11T00:00:00.000", "promotions": [{"name": "Marc Bosworth", "rank": "Brown"}], "photo": "20260711-marcbrown.jpg"},
-{"date": "2026-07-18T00:00:00.000", "promotions": [{"name": "Joey Jimenez", "rank": "Blue"}], "photo": "20260718-joeyblue.jpg"}
+{"date": "2026-07-18T00:00:00.000", "promotions": [{"name": "Joey Jimenez", "rank": "Blue"}], "photo": "20260718-joeyblue.jpg"},
+{"date": "2026-09-10T00:00:00.000", "promotions": [{"name": "Andrew Chew", "rank": "Blue"}], "photo": "20260910-andrewblue.jpg"}
 ]
