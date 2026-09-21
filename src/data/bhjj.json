@@ -427,5 +427,9 @@
 {"date": "2026-07-06T00:00:00.000", "promotions": [{"name": "Miguel Garcia", "rank": "Blue"}], "photo": "20260706-miguelblue.jpg"},
 {"date": "2026-07-11T00:00:00.000", "promotions": [{"name": "Marc Bosworth", "rank": "Brown"}], "photo": "20260711-marcbrown.jpg"},
 {"date": "2026-07-18T00:00:00.000", "promotions": [{"name": "Joey Jimenez", "rank": "Blue"}], "photo": "20260718-joeyblue.jpg"},
-{"date": "2026-09-10T00:00:00.000", "promotions": [{"name": "Andrew Chew", "rank": "Blue"}], "photo": "20260910-andrewblue.jpg"}
+{"date": "2026-09-10T00:00:00.000", "promotions": [{"name": "Andrew Chew", "rank": "Blue"}], "photo": "20260910-andrewblue.jpg"},
+{"date": "2026-09-19T00:00:00.000", "promotions": [{"name": "Grant Jones", "rank": "Blue"}], "photo": "20260919-grantblack.jpg"},
+{"date": "2026-09-19T00:00:00.000", "promotions": [{"name": "Mark Shields", "rank": "Blue"}], "photo": "20260919-markblack.jpg"},
+{"date": "2026-09-19T00:00:00.000", "promotions": [{"name": "Chris Jones", "rank": "Blue"}], "photo": "20260919-chrisblack.jpg"},
+{"date": "2026-09-19T00:00:00.000", "promotions": [{"name": "Ernesto Espinoza", "rank": "Blue"}], "photo": "20260919-ernestoblack.jpg"}
 ]
