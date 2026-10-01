@@ -434,5 +434,6 @@
 {"date": "2026-09-19T00:00:00.000", "promotions": [{"name": "Ernesto Espinoza", "rank": "Black"}], "photo": "20260919-ernestoblack.jpg"},
 {"date": "2026-09-21T00:00:00.000", "promotions": [{"name": "Alex Vecchioni", "rank": "Purple"}], "photo": "20260921-alexpurple.jpg"},
 {"date": "2026-09-26T00:00:00.000", "promotions": [{"name": "Stuart Freeman", "rank": "Black Belt First Degree"},{"name": "Kennith Jackson", "rank": "Black Belt First Degree"}], "photo": "20260926-stuartkennithbb1.jpg"},
-{"date": "2026-09-28T00:00:00.000", "promotions": [{"name": "Michael Johnson", "rank": "Purple"}], "photo": "20260928-michaelpurple.jpg"}
+{"date": "2026-09-28T00:00:00.000", "promotions": [{"name": "Michael Johnson", "rank": "Purple"}], "photo": "20260928-michaelpurple.jpg"},
+{"date": "2026-09-29T00:00:00.000", "promotions": [{"name": "Frank Wilson", "rank": "Purple"}], "photo": "20260929-frankpurple.jpg"}
 ]
