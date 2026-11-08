@@ -440,6 +440,6 @@
 {"date": "2026-09-28T00:00:00.000", "promotions": [{"name": "Michael Johnson", "rank": "Purple"}], "photo": "20260928-michaelpurple.jpg"},
 {"date": "2026-09-29T00:00:00.000", "promotions": [{"name": "Frank Wilson", "rank": "Purple"}], "photo": "20260929-frankpurple.jpg"},
 {"date": "2026-10-27T00:00:00.000", "promotions": [{"name": "Denzel Rumph", "rank": "Blue"}], "photo": "20261027-denzelblue.jpg"},
-{"date": "2026-11-03T00:00:00.000", "promotions": [{"name": "Claire Kritz", "rank": "Blue"}], "photo": "20261103-claireblue.jpg"}
+{"date": "2026-11-03T00:00:00.000", "promotions": [{"name": "Claire Kritz", "rank": "Blue"}], "photo": "20261103-claireblue.jpg"},
 {"date": "2026-11-05T00:00:00.000", "promotions": [{"name": "Kyle Johns", "rank": "Blue"}], "photo": "20261105-kyleblue.jpg"}
 ]
