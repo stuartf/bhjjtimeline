@@ -369,6 +369,7 @@
 {"date": "2024-12-07T00:00:00.000", "promotions": [{"name": "Daren Roberts", "rank": "Black Belt Second Degree"}], "photo": "20241207-daren2nd.jpg"},
 {"date": "2024-12-16T00:00:00.000", "promotions": [{"name": "Taylor Jackson", "rank": "Blue"}], "photo": "20241216-taylorblue.jpg"},
 {"date": "2024-12-23T00:00:00.000", "promotions": [{"name": "Erik Lystad", "rank": "Brown"}], "photo": "20241223-erikbrown.jpg"},
+{"date": "2024-12-24T00:00:00.000", "promotions": [{"name": "Kyle Johns", "rank": "Join"}], "photo": "20241224-kylejoin.jpg"},
 {"date": "2024-12-27T00:00:00.000", "promotions": [{"name": "Bryant Holt", "rank": "Blue"}], "photo": "20241227-bryantblue.jpg"},
 {"date": "2025-01-16T00:00:00.000", "promotions": [{"name": "Emmanuel Donate", "rank": "Join"}], "photo": "20250116-emmanueljoin.jpg"},
 {"date": "2025-01-18T00:00:00.000", "promotions": [{"name": "Sam Ross", "rank": "Black"}], "photo": "20250118-samblack.jpg"},
@@ -391,6 +392,7 @@
 {"date": "2025-06-21T00:00:00.000", "promotions": [{"name": "Mark Estrada", "rank": "Black"}], "photo": "20250621-markblack.jpg"},
 {"date": "2025-06-21T00:00:00.000", "promotions": [{"name": "Michael Leamy", "rank": "Black"}], "photo": "20250621-mikeblack.jpg"},
 {"date": "2025-07-08T00:00:00.000", "promotions": [{"name": "Joey Jimenez", "rank": "Join"}], "photo": "20250708-joeyjoin.jpg"},
+{"date": "2025-07-14T00:00:00.000", "promotions": [{"name": "Claire Kritz", "rank": "Join"}], "photo": "20250714-clairejoin.jpg"},
 {"date": "2025-07-23T00:00:00.000", "promotions": [{"name": "Nihal Punjani", "rank": "Brown"}], "photo": "20250723-nihalbrown.jpg"},
 {"date": "2025-07-30T00:00:00.000", "promotions": [{"name": "Zach Mahl", "rank": "Purple"}], "photo": "20250730-zachpurple.jpg"},
 {"date": "2025-08-05T00:00:00.000", "promotions": [{"name": "Joel Blasco", "rank": "Blue"}], "photo": "20250805-joelblue.jpg"},
@@ -437,5 +439,7 @@
 {"date": "2026-09-26T00:00:00.000", "promotions": [{"name": "Stuart Freeman", "rank": "Black Belt First Degree"},{"name": "Kennith Jackson", "rank": "Black Belt First Degree"}], "photo": "20260926-stuartkennithbb1.jpg"},
 {"date": "2026-09-28T00:00:00.000", "promotions": [{"name": "Michael Johnson", "rank": "Purple"}], "photo": "20260928-michaelpurple.jpg"},
 {"date": "2026-09-29T00:00:00.000", "promotions": [{"name": "Frank Wilson", "rank": "Purple"}], "photo": "20260929-frankpurple.jpg"},
-{"date": "2026-10-27T00:00:00.000", "promotions": [{"name": "Denzel Rumph", "rank": "Blue"}], "photo": "20261027-denzelblue.jpg"}
+{"date": "2026-10-27T00:00:00.000", "promotions": [{"name": "Denzel Rumph", "rank": "Blue"}], "photo": "20261027-denzelblue.jpg"},
+{"date": "2026-11-03T00:00:00.000", "promotions": [{"name": "Claire Kritz", "rank": "Blue"}], "photo": "20261103-claireblue.jpg"}
+{"date": "2026-11-05T00:00:00.000", "promotions": [{"name": "Kyle Johns", "rank": "Blue"}], "photo": "20261105-kyleblue.jpg"}
 ]
