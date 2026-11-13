@@ -342,6 +342,7 @@
 {"date": "2024-05-14T00:00:00.000", "promotions": [{"name": "Wesley Bowman", "rank": "Blue"}], "photo": "20240514-wesblue.jpg"},
 {"date": "2024-05-17T00:00:00.000", "promotions": [{"name": "Frank Wilson", "rank": "Blue"}], "photo": "20240517-frankblue.jpg"},
 {"date": "2024-05-20T00:00:00.000", "promotions": [{"name": "Spencer Mashburn", "rank": "Blue"}], "photo": "20240520-spencerblue.jpg"},
+{"date": "2024-05-28T00:00:00.000", "promotions": [{"name": "Bradley Strong", "rank": "Join"}], "photo": "20240528-bradleyjoin.jpg"},
 {"date": "2024-06-17T00:00:00.000", "promotions": [{"name": "Jason Assenmacher", "rank": "Purple"}], "photo": "20240617-jasonpurple.jpg"},
 {"date": "2024-06-21T00:00:00.000", "promotions": [{"name": "Michael Johnson", "rank": "Blue"}, {"name": "Stephen Ireland", "rank": "Purple"}], "photo": "20240621-mikebluestephenpurple.jpg"},
 {"date": "2024-06-24T00:00:00.000", "promotions": [{"name": "Cole Varner", "rank": "Blue"}], "photo": "20240624-coleblue.jpg"},
@@ -441,5 +442,6 @@
 {"date": "2026-09-29T00:00:00.000", "promotions": [{"name": "Frank Wilson", "rank": "Purple"}], "photo": "20260929-frankpurple.jpg"},
 {"date": "2026-10-27T00:00:00.000", "promotions": [{"name": "Denzel Rumph", "rank": "Blue"}], "photo": "20261027-denzelblue.jpg"},
 {"date": "2026-11-03T00:00:00.000", "promotions": [{"name": "Claire Kritz", "rank": "Blue"}], "photo": "20261103-claireblue.jpg"},
-{"date": "2026-11-05T00:00:00.000", "promotions": [{"name": "Kyle Johns", "rank": "Blue"}], "photo": "20261105-kyleblue.jpg"}
+{"date": "2026-11-05T00:00:00.000", "promotions": [{"name": "Kyle Johns", "rank": "Blue"}], "photo": "20261105-kyleblue.jpg"},
+{"date": "2026-11-12T00:00:00.000", "promotions": [{"name": "Bradley Strong", "rank": "Brown"}], "photo": "20261112-bradleybrown.jpg"}
 ]
